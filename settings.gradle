@@ -1,0 +1,17 @@
+rootProject.name = 'sca-parent'
+include "sca-gateway"
+include "sca-server:sca-server-oauth2"
+include "sca-server:sca-server-monitor"
+include "sca-server:sca-server-sleuth"
+
+file("${rootDir}/sca-common").eachDirMatch(~/sca-common.*/) {
+    include "sca-common:${it.name}"
+}
+
+file("${rootDir}/sca-common/sca-common-api").eachDirMatch(~/sca-common-api.*/) {
+    include "sca-common:sca-common-api:${it.name}"
+}
+
+file("${rootDir}/sca-service").eachDirMatch(~/sca-service.*/) {
+    include "sca-service:${it.name}"
+}

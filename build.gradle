@@ -1,0 +1,53 @@
+plugins {
+    id 'org.springframework.boot' version '2.2.9.RELEASE'
+    id "io.spring.dependency-management" version "1.0.9.RELEASE"
+}
+
+apply from: "config.gradle"
+
+subprojects {
+
+    apply plugin: 'java'
+    apply plugin: "org.springframework.boot"
+    apply plugin: "io.spring.dependency-management"
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    [compileJava,compileTestJava,javadoc]*.options*.encoding = 'UTF-8'
+
+    ext {
+        set('springBootVersion', "2.2.9.RELEASE")
+        set('springCloudAlibabaVersion', "2.2.1.RELEASE")
+        set('springCloudVersion', "Hoxton.SR2")
+        set('lombokVersion', "1.18.12")
+    }
+
+    jar {
+        enabled = true
+    }
+
+    // 设置打包时的启动类
+    springBoot {
+        mainClassName = 'com.softwarevax.sca.web.ScaApplication'
+    }
+
+    repositories {
+        mavenLocal()
+        maven {
+            url 'http://maven.aliyun.com/nexus/content/groups/public/'
+        }
+        mavenCentral()
+    }
+
+    dependencies {
+        compile rootProject.ext.dependencies["spring-boot-starter-web"]
+    }
+
+    dependencyManagement {
+        imports {
+            mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
+            mavenBom "com.alibaba.cloud:spring-cloud-alibaba-dependencies:${springCloudAlibabaVersion}"
+        }
+    }
+}
