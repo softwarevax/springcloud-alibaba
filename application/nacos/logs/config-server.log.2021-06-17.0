@@ -1,0 +1,68 @@
+2021-06-17 12:58:37,715 INFO notifyConnectTimeout:200
+
+2021-06-17 12:58:37,721 INFO notifySocketTimeout:8000
+
+2021-06-17 12:58:37,721 INFO isHealthCheck:true
+
+2021-06-17 12:58:37,721 INFO maxHealthCheckFailCount:12
+
+2021-06-17 12:58:37,721 INFO maxContent:10485760
+
+2021-06-17 12:58:37,721 INFO spring.datasource.platform:mysql
+
+2021-06-17 12:59:03,342 WARN DumpService start
+
+2021-06-17 12:59:03,345 INFO start clear all config-info.
+
+2021-06-17 12:59:03,588 INFO clear all config-info success.
+
+2021-06-17 12:59:03,591 WARN clear all config-info-tenant failed.
+
+2021-06-17 12:59:03,954 INFO [all-dump] 21 / 21
+
+2021-06-17 12:59:03,955 INFO start clear all config-info-beta.
+
+2021-06-17 12:59:03,956 WARN clear all config-info-beta failed.
+
+2021-06-17 12:59:03,957 WARN clear all config-info-beta-tenant failed.
+
+2021-06-17 12:59:03,959 INFO start clear all config-info-tag.
+
+2021-06-17 12:59:03,960 WARN clear all config-info-tag failed.
+
+2021-06-17 12:59:03,961 WARN clear all config-info-tag-tenant failed.
+
+2021-06-17 17:24:54,004 INFO notifyConnectTimeout:200
+
+2021-06-17 17:24:54,007 INFO notifySocketTimeout:8000
+
+2021-06-17 17:24:54,008 INFO isHealthCheck:true
+
+2021-06-17 17:24:54,008 INFO maxHealthCheckFailCount:12
+
+2021-06-17 17:24:54,008 INFO maxContent:10485760
+
+2021-06-17 17:24:54,008 INFO spring.datasource.platform:mysql
+
+2021-06-17 17:25:10,597 WARN DumpService start
+
+2021-06-17 17:25:10,598 INFO start clear all config-info.
+
+2021-06-17 17:25:10,613 INFO clear all config-info success.
+
+2021-06-17 17:25:10,614 WARN clear all config-info-tenant failed.
+
+2021-06-17 17:25:10,678 INFO [all-dump] 31 / 31
+
+2021-06-17 17:25:10,678 INFO start clear all config-info-beta.
+
+2021-06-17 17:25:10,679 WARN clear all config-info-beta failed.
+
+2021-06-17 17:25:10,679 WARN clear all config-info-beta-tenant failed.
+
+2021-06-17 17:25:10,680 INFO start clear all config-info-tag.
+
+2021-06-17 17:25:10,680 WARN clear all config-info-tag failed.
+
+2021-06-17 17:25:10,681 WARN clear all config-info-tag-tenant failed.
+

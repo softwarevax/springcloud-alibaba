@@ -1,0 +1,14 @@
+apply from: "../../config.gradle"
+
+description "web核心包，web都引入，方便开发"
+
+dependencies {
+    compile 'org.projectlombok:lombok'
+    compile rootProject.ext.dependencies['spring-boot-starter-aop']
+    compile rootProject.ext.dependencies['pagehelper']
+    compile rootProject.ext.dependencies['swagger2']
+    compile rootProject.ext.dependencies['swagger-ui']
+    compile project(":sca-common:sca-common-domain")
+    compile project(":sca-common:sca-common-util")
+    annotationProcessor('org.projectlombok:lombok')
+}

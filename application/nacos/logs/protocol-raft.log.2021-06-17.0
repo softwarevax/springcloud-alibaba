@@ -1,0 +1,60 @@
+2021-06-17 12:59:08,608 INFO Initializes the Raft protocol, raft-config info : {}
+
+2021-06-17 12:59:09,364 INFO ========= The raft protocol is starting... =========
+
+2021-06-17 12:59:09,407 INFO ========= The raft protocol start finished... =========
+
+2021-06-17 12:59:09,435 INFO create raft group : naming_persistent_service_v2
+
+2021-06-17 12:59:10,161 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='null', term=null, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 12:59:10,394 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.182.1:7848', term=4, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 12:59:10,409 INFO create raft group : naming_instance_metadata
+
+2021-06-17 12:59:10,670 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='null', term=null, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 12:59:10,712 INFO create raft group : naming_service_metadata
+
+2021-06-17 12:59:10,714 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.182.1:7848', term=4, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 12:59:10,890 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='null', term=null, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 12:59:10,951 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.182.1:7848', term=4, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 13:49:51,693 INFO shutdown jraft server
+
+2021-06-17 13:49:51,694 INFO ========= The raft protocol is starting to close =========
+
+2021-06-17 13:49:51,801 INFO ========= The raft protocol has been closed =========
+
+2021-06-17 17:25:12,715 INFO Initializes the Raft protocol, raft-config info : {}
+
+2021-06-17 17:25:13,240 INFO ========= The raft protocol is starting... =========
+
+2021-06-17 17:25:13,270 INFO ========= The raft protocol start finished... =========
+
+2021-06-17 17:25:13,290 INFO create raft group : naming_persistent_service_v2
+
+2021-06-17 17:25:13,809 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='null', term=null, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 17:25:13,915 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.182.1:7848', term=5, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 17:25:13,926 INFO create raft group : naming_instance_metadata
+
+2021-06-17 17:25:14,035 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='null', term=null, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 17:25:14,064 INFO create raft group : naming_service_metadata
+
+2021-06-17 17:25:14,072 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.182.1:7848', term=5, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 17:25:14,181 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='null', term=null, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 17:25:14,229 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.182.1:7848', term=5, raftClusterInfo=[192.168.182.1:7848]}
+
+2021-06-17 21:02:42,726 INFO shutdown jraft server
+
+2021-06-17 21:02:42,727 INFO ========= The raft protocol is starting to close =========
+
+2021-06-17 21:02:42,849 INFO ========= The raft protocol has been closed =========
+

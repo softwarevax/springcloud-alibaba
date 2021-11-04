@@ -1,0 +1,240 @@
+2021-06-17 12:59:03,883 INFO [dump-all-ok] sca-business-book+DEFAULT_GROUP, 1623846527000, length=621, md5=b2b17abfee628cea93374b65fc8dac53
+
+2021-06-17 12:59:03,892 INFO [dump-all-ok] sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, 1623850455000, length=97, md5=aa75f9e097c8df8621b26cbd3688b535
+
+2021-06-17 12:59:03,895 INFO [dump-all-ok] sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1623850457000, length=97, md5=ddcdec31dc558445d00ee51d8279f16d
+
+2021-06-17 12:59:03,924 INFO [dump-all-ok] sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, 1623850474000, length=55, md5=15fc0542a1fc9ad149354b72543f2393
+
+2021-06-17 12:59:03,954 INFO [dump-all-ok] sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1623850476000, length=55, md5=f00e42a12d4f04c35d7970dd29d8c983
+
+2021-06-17 13:01:49,748 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 13:01:49,794 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 13:01:49,797 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 13:01:49,798 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 13:11:54,707 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 13:11:56,178 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 13:15:05,662 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 13:15:07,194 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 13:15:08,971 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 13:15:08,971 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 13:16:36,246 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 13:16:37,727 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 13:16:56,779 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 13:16:56,779 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 13:47:55,778 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 13:47:57,313 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 13:48:20,727 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 13:48:22,221 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 17:25:10,674 INFO [dump-all-ok] sca-business-book+DEFAULT_GROUP, 1623846527000, length=621, md5=b2b17abfee628cea93374b65fc8dac53
+
+2021-06-17 17:25:10,675 INFO [dump-all-ok] sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, 1623908876000, length=13, md5=4f8cc09be408519018cd08bd027c2def
+
+2021-06-17 17:25:10,676 INFO [dump-all-ok] sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1623908877000, length=13, md5=6989e16a89048cb000397822f9925372
+
+2021-06-17 17:25:10,677 INFO [dump-all-ok] sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, 1623908901000, length=13, md5=ff226f38aaf8a7172e24f5c3b5b5bccc
+
+2021-06-17 17:25:10,678 INFO [dump-all-ok] sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1623908902000, length=13, md5=da7019bf072e3bd6c32531ab400737da
+
+2021-06-17 17:26:19,372 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 17:26:20,282 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 18:14:34,799 INFO [dump-task] add task. groupKey=sca-business-book+DEFAULT_GROUP, taskKey=sca-business-book+DEFAULT_GROUP++false+null
+
+2021-06-17 18:14:34,799 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 18:14:34,799 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 18:14:34,799 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 18:14:34,799 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 18:29:10,806 INFO [dump-task] add task. groupKey=sca-common.yml+SCA_COMMON_GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-common.yml+SCA_COMMON_GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 18:29:39,528 INFO [dump-task] add task. groupKey=sca-common.yml+SCA_COMMON_GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-common.yml+SCA_COMMON_GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 18:30:52,002 INFO [dump-task] add task. groupKey=sca-common.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-common.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 18:35:22,275 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 18:36:21,094 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 18:47:41,907 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 18:47:43,374 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 18:48:26,276 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 18:48:27,757 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 18:48:58,110 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 18:49:09,432 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 18:49:09,440 WARN [dump-ignore] ignore to save cache file. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, md5=c238a5e182f4df1905ef981572006b4e, lastModifiedOld=1623926938094, lastModifiedNew=1623926949422
+
+2021-06-17 18:51:00,765 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 18:51:02,293 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 18:51:25,668 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 18:59:57,376 INFO [dump-task] add task. groupKey=sca-common.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-common.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:02:44,020 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:03:20,807 INFO [dump-task] add task. groupKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:03:32,206 INFO [dump-task] add task. groupKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:03:47,694 INFO [dump-task] add task. groupKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:04:02,997 INFO [dump-task] add task. groupKey=sca-common.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-common.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:04:25,462 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:04:54,221 INFO [dump-task] add task. groupKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:05:17,906 INFO [dump-task] add task. groupKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:08:45,570 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:08:55,358 INFO [dump-task] add task. groupKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:09:03,348 INFO [dump-task] add task. groupKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:10:10,172 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:18:43,414 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:18:55,514 INFO [dump-task] add task. groupKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:19:05,797 INFO [dump-task] add task. groupKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:46:03,115 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 19:46:04,611 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 19:46:13,711 INFO [dump-task] add task. groupKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-user.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:46:24,530 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:46:33,120 INFO [dump-task] add task. groupKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:48:43,110 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:48:43,145 WARN [dump-ignore] ignore to save cache file. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, md5=ac569dfccabdfc5ebc84f403c6231846, lastModifiedOld=1623930384514, lastModifiedNew=1623930523094
+
+2021-06-17 19:50:07,338 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:50:47,687 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 19:50:49,162 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 19:53:40,889 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:53:53,788 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:57:16,545 INFO [dump-task] add task. groupKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 19:57:38,792 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 19:57:40,197 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:07:28,396 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 20:07:29,862 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:14:04,541 INFO [dump-task] add task. groupKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order.yml+SCA-GROUP+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:22:27,094 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 20:22:28,640 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:24:53,537 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 20:24:55,023 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:28:03,525 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 20:28:05,048 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:28:49,600 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 20:28:51,046 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:33:36,259 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 20:33:38,378 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:34:39,137 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 20:34:40,608 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:35:59,032 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:36:00,665 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:36:46,730 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:36:48,475 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:43:27,111 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:43:28,586 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:46:51,955 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-17 20:46:51,955 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:46:51,955 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-17 20:46:51,955 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-17 20:51:53,822 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:51:55,210 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:52:30,972 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:52:32,472 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:55:10,682 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:55:12,189 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:56:17,119 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:56:18,558 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:58:14,589 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 20:58:16,137 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 21:00:54,179 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 21:00:55,902 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 21:01:45,966 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+
+2021-06-17 21:01:47,734 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService+31b8dfd1-b514-4518-b435-fe64fe34f322+false+null
+

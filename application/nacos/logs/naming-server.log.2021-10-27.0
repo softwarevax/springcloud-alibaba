@@ -1,0 +1,746 @@
+2021-10-27 18:55:27,546 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2021-10-27 18:55:27,546 WARN Using naming.distro config to replace core.distro config
+
+2021-10-27 18:55:27,721 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-10-27 18:55:27,722 INFO listen for service meta change
+
+2021-10-27 18:57:33,618 INFO Client connection 192.168.137.1:8000#true connect
+
+2021-10-27 18:57:33,620 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.137.1:8000#true
+
+2021-10-27 18:57:51,021 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.137.1:8000#true
+
+2021-10-27 18:58:24,708 INFO Client connection 192.168.137.1:8000#true disconnect, remove instances and subscribers
+
+2021-10-27 18:58:29,733 INFO Client connection 192.168.137.1:53181#true connect
+
+2021-10-27 18:58:29,733 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=2}, 192.168.137.1:53181#true
+
+2021-10-27 19:01:05,525 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=3}, 192.168.137.1:53181#true
+
+2021-10-27 19:01:39,732 INFO Client connection 192.168.137.1:53181#true disconnect, remove instances and subscribers
+
+2021-10-27 19:03:00,625 WARN namespace : public, [DEFAULT_GROUP@@sca-business-portal] services are automatically cleaned
+
+2021-10-27 19:37:24,584 INFO Client connection 192.168.137.1:8082#true connect
+
+2021-10-27 19:37:24,584 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.137.1:8082#true
+
+2021-10-27 19:39:19,006 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.137.1:8082#true
+
+2021-10-27 19:39:29,929 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=2}, 192.168.137.1:8082#true
+
+2021-10-27 19:44:12,940 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=3}, 192.168.137.1:8082#true
+
+2021-10-27 19:44:45,047 INFO Client connection 192.168.137.1:8082#true disconnect, remove instances and subscribers
+
+2021-10-27 19:46:00,657 WARN namespace : public, [DEFAULT_GROUP@@sca-business-portal] services are automatically cleaned
+
+2021-10-27 19:46:01,851 INFO Client connection 192.168.137.1:8082#true connect
+
+2021-10-27 19:46:01,851 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.137.1:8082#true
+
+2021-10-27 19:46:40,168 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.137.1:8082#true
+
+2021-10-27 19:47:15,063 INFO Client connection 192.168.137.1:8082#true disconnect, remove instances and subscribers
+
+2021-10-27 19:47:17,026 INFO Client connection 192.168.137.1:8082#true connect
+
+2021-10-27 19:47:17,026 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=2}, 192.168.137.1:8082#true
+
+2021-10-27 19:49:05,580 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=3}, 192.168.137.1:8082#true
+
+2021-10-27 19:49:16,320 INFO Client connection 192.168.137.1:8089#true connect
+
+2021-10-27 19:49:16,320 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=4}, 192.168.137.1:8089#true
+
+2021-10-27 19:49:40,082 INFO Client connection 192.168.137.1:8082#true disconnect, remove instances and subscribers
+
+2021-10-27 19:49:51,019 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=5}, 192.168.137.1:8089#true
+
+2021-10-27 19:50:00,733 INFO Client connection 192.168.137.1:52463#true connect
+
+2021-10-27 19:50:00,733 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=6}, 192.168.137.1:52463#true
+
+2021-10-27 19:50:04,511 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=7}, 192.168.137.1:52463#true
+
+2021-10-27 19:50:14,260 INFO Client connection 192.168.137.1:60655#true connect
+
+2021-10-27 19:50:14,261 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=8}, 192.168.137.1:60655#true
+
+2021-10-27 19:50:23,462 INFO Client connection 192.168.137.1:58948#true connect
+
+2021-10-27 19:50:23,462 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=9}, 192.168.137.1:58948#true
+
+2021-10-27 19:50:25,088 INFO Client connection 192.168.137.1:8089#true disconnect, remove instances and subscribers
+
+2021-10-27 19:50:35,088 INFO Client connection 192.168.137.1:52463#true disconnect, remove instances and subscribers
+
+2021-10-27 19:51:54,374 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=10}, 192.168.137.1:60655#true
+
+2021-10-27 19:51:54,483 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=11}, 192.168.137.1:58948#true
+
+2021-10-27 19:52:09,066 INFO Client connection 192.168.137.1:65443#true connect
+
+2021-10-27 19:52:09,066 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.137.1:65443#true
+
+2021-10-27 19:52:25,103 INFO Client connection 192.168.137.1:60655#true disconnect, remove instances and subscribers
+
+2021-10-27 19:52:25,103 INFO Client connection 192.168.137.1:58948#true disconnect, remove instances and subscribers
+
+2021-10-27 19:52:53,519 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.137.1:65443#true
+
+2021-10-27 19:53:00,660 WARN namespace : public, [DEFAULT_GROUP@@sca-business-portal] services are automatically cleaned
+
+2021-10-27 19:53:03,171 INFO Client connection 192.168.137.1:63118#true connect
+
+2021-10-27 19:53:03,171 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-business-portal', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.137.1:63118#true
+
+2021-10-27 19:53:25,108 INFO Client connection 192.168.137.1:65443#true disconnect, remove instances and subscribers
+
+2021-10-27 19:53:33,276 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-business-portal', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.137.1:63118#true
+
+2021-10-27 19:53:42,844 INFO Client connection 192.168.137.1:63463#true connect
+
+2021-10-27 19:53:42,844 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.137.1:63463#true
+
+2021-10-27 19:54:00,663 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [DEFAULT_GROUP@@sca-business-portal] services are automatically cleaned
+
+2021-10-27 19:54:05,116 INFO Client connection 192.168.137.1:63118#true disconnect, remove instances and subscribers
+
+2021-10-27 19:55:00,664 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-business-portal@@sca-business-portal] services are automatically cleaned
+
+2021-10-27 19:57:08,408 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.137.1:63463#true
+
+2021-10-27 19:57:18,876 INFO Client connection 192.168.137.1:49651#true connect
+
+2021-10-27 19:57:18,876 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=2}, 192.168.137.1:49651#true
+
+2021-10-27 19:57:40,145 INFO Client connection 192.168.137.1:63463#true disconnect, remove instances and subscribers
+
+2021-10-27 19:57:45,162 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=3}, 192.168.137.1:49651#true
+
+2021-10-27 19:57:54,896 INFO Client connection 192.168.137.1:62528#true connect
+
+2021-10-27 19:57:54,896 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=4}, 192.168.137.1:62528#true
+
+2021-10-27 19:58:20,151 INFO Client connection 192.168.137.1:49651#true disconnect, remove instances and subscribers
+
+2021-10-27 19:59:25,239 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=5}, 192.168.137.1:62528#true
+
+2021-10-27 19:59:34,812 INFO Client connection 192.168.137.1:64574#true connect
+
+2021-10-27 19:59:34,813 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=6}, 192.168.137.1:64574#true
+
+2021-10-27 20:00:00,161 INFO Client connection 192.168.137.1:62528#true disconnect, remove instances and subscribers
+
+2021-10-27 20:00:58,356 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=7}, 192.168.137.1:64574#true
+
+2021-10-27 20:01:07,956 INFO Client connection 192.168.137.1:64969#true connect
+
+2021-10-27 20:01:07,956 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=8}, 192.168.137.1:64969#true
+
+2021-10-27 20:01:26,016 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=9}, 192.168.137.1:64969#true
+
+2021-10-27 20:01:30,172 INFO Client connection 192.168.137.1:64574#true disconnect, remove instances and subscribers
+
+2021-10-27 20:01:35,583 INFO Client connection 192.168.137.1:55649#true connect
+
+2021-10-27 20:01:35,583 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=10}, 192.168.137.1:55649#true
+
+2021-10-27 20:02:00,175 INFO Client connection 192.168.137.1:64969#true disconnect, remove instances and subscribers
+
+2021-10-27 20:02:18,729 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=11}, 192.168.137.1:55649#true
+
+2021-10-27 20:02:46,467 INFO Client connection 192.168.137.1:63188#true connect
+
+2021-10-27 20:02:46,468 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=12}, 192.168.137.1:63188#true
+
+2021-10-27 20:02:50,180 INFO Client connection 192.168.137.1:55649#true disconnect, remove instances and subscribers
+
+2021-10-27 20:03:41,898 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=13}, 192.168.137.1:63188#true
+
+2021-10-27 20:04:15,187 INFO Client connection 192.168.137.1:63188#true disconnect, remove instances and subscribers
+
+2021-10-27 20:05:00,672 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-portal] services are automatically cleaned
+
+2021-10-27 20:06:39,151 INFO Client connection 192.168.137.1:56648#true connect
+
+2021-10-27 20:06:39,151 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.137.1:56648#true
+
+2021-10-27 20:07:24,142 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.137.1:56648#true
+
+2021-10-27 20:07:33,788 INFO Client connection 192.168.137.1:60703#true connect
+
+2021-10-27 20:07:33,788 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=2}, 192.168.137.1:60703#true
+
+2021-10-27 20:07:55,215 INFO Client connection 192.168.137.1:56648#true disconnect, remove instances and subscribers
+
+2021-10-27 20:08:40,912 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=3}, 192.168.137.1:60703#true
+
+2021-10-27 20:08:50,457 INFO Client connection 192.168.137.1:54968#true connect
+
+2021-10-27 20:08:50,457 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=4}, 192.168.137.1:54968#true
+
+2021-10-27 20:09:15,223 INFO Client connection 192.168.137.1:60703#true disconnect, remove instances and subscribers
+
+2021-10-27 20:10:37,300 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=5}, 192.168.137.1:54968#true
+
+2021-10-27 20:11:10,238 INFO Client connection 192.168.137.1:54968#true disconnect, remove instances and subscribers
+
+2021-10-27 20:11:55,613 INFO Client connection 192.168.137.1:53546#true connect
+
+2021-10-27 20:11:55,613 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=6}, 192.168.137.1:53546#true
+
+2021-10-27 20:13:58,804 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=7}, 192.168.137.1:53546#true
+
+2021-10-27 20:14:30,262 INFO Client connection 192.168.137.1:53546#true disconnect, remove instances and subscribers
+
+2021-10-27 20:15:00,679 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-portal] services are automatically cleaned
+
+2021-10-27 20:28:24,970 INFO Client connection 192.168.137.1:64694#true connect
+
+2021-10-27 20:28:24,970 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, 192.168.137.1:64694#true
+
+2021-10-27 20:28:43,204 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, 192.168.137.1:64694#true
+
+2021-10-27 20:29:03,341 INFO Client connection 192.168.137.1:56378#true connect
+
+2021-10-27 20:29:03,341 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, 192.168.137.1:56378#true
+
+2021-10-27 20:29:15,368 INFO Client connection 192.168.137.1:64694#true disconnect, remove instances and subscribers
+
+2021-10-27 20:29:26,082 INFO Client connection 192.168.137.1:54307#true connect
+
+2021-10-27 20:29:26,082 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.137.1:54307#true
+
+2021-10-27 20:29:29,566 INFO Client connection 192.168.31.170:60216#true connect
+
+2021-10-27 20:46:34,722 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=3}, 192.168.137.1:56378#true
+
+2021-10-27 20:46:34,939 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.137.1:54307#true
+
+2021-10-27 20:47:05,488 INFO Client connection 192.168.31.170:60216#true disconnect, remove instances and subscribers
+
+2021-10-27 20:47:05,488 INFO Client connection 192.168.137.1:56378#true disconnect, remove instances and subscribers
+
+2021-10-27 20:47:05,488 INFO Client connection 192.168.137.1:54307#true disconnect, remove instances and subscribers
+
+2021-10-27 20:48:00,704 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-book] services are automatically cleaned
+
+2021-10-27 20:48:00,704 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-portal] services are automatically cleaned
+
+2021-10-27 21:10:18,765 INFO Client connection 192.168.137.1:61774#true connect
+
+2021-10-27 21:10:18,765 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, 192.168.137.1:61774#true
+
+2021-10-27 21:12:07,483 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, 192.168.137.1:61774#true
+
+2021-10-27 21:12:31,954 INFO Client connection 192.168.137.1:58073#true connect
+
+2021-10-27 21:12:31,954 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, 192.168.137.1:58073#true
+
+2021-10-27 21:12:40,665 INFO Client connection 192.168.137.1:61774#true disconnect, remove instances and subscribers
+
+2021-10-27 21:16:46,137 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=3}, 192.168.137.1:58073#true
+
+2021-10-27 21:17:20,696 INFO Client connection 192.168.137.1:58073#true disconnect, remove instances and subscribers
+
+2021-10-27 21:17:26,357 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 21:17:26,358 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=4}, 192.168.137.1:8010#true
+
+2021-10-27 21:18:41,262 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, 192.168.137.1:8010#true
+
+2021-10-27 21:19:15,709 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 21:19:39,056 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 21:19:39,056 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=6}, 192.168.137.1:8010#true
+
+2021-10-27 21:20:16,618 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=7}, 192.168.137.1:8010#true
+
+2021-10-27 21:20:50,719 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 21:22:00,732 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-book] services are automatically cleaned
+
+2021-10-27 21:22:56,277 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 21:22:56,277 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, 192.168.137.1:8010#true
+
+2021-10-27 21:23:48,191 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, 192.168.137.1:8010#true
+
+2021-10-27 21:24:11,905 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, 192.168.137.1:8010#true
+
+2021-10-27 21:26:18,160 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=3}, 192.168.137.1:8010#true
+
+2021-10-27 21:26:50,772 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 21:27:09,867 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 21:27:09,867 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=4}, 192.168.137.1:8010#true
+
+2021-10-27 21:27:26,989 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, 192.168.137.1:8010#true
+
+2021-10-27 21:27:50,961 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=6}, 192.168.137.1:8010#true
+
+2021-10-27 21:30:04,052 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=7}, 192.168.137.1:8010#true
+
+2021-10-27 21:30:35,801 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 21:32:00,738 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-book] services are automatically cleaned
+
+2021-10-27 21:36:27,977 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 21:36:27,977 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, 192.168.137.1:8010#true
+
+2021-10-27 21:37:10,122 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, 192.168.137.1:8010#true
+
+2021-10-27 21:37:32,549 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, 192.168.137.1:8010#true
+
+2021-10-27 21:47:08,181 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=3}, 192.168.137.1:8010#true
+
+2021-10-27 21:47:32,099 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=4}, 192.168.137.1:8010#true
+
+2021-10-27 21:48:09,353 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, 192.168.137.1:8010#true
+
+2021-10-27 21:48:40,930 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 21:48:53,605 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 21:48:53,605 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=6}, 192.168.137.1:8010#true
+
+2021-10-27 21:49:17,236 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=7}, 192.168.137.1:8010#true
+
+2021-10-27 21:49:50,938 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 21:50:55,830 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 21:50:55,830 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=8}, 192.168.137.1:8010#true
+
+2021-10-27 21:56:58,171 INFO Client connection 192.168.31.170:49951#true connect
+
+2021-10-27 21:57:02,769 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 21:57:02,769 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=0}, 192.168.137.1:8030#true
+
+2021-10-27 21:57:21,971 INFO Client connection 192.168.31.170:63014#true connect
+
+2021-10-27 21:59:51,007 INFO Client connection 192.168.31.170:49951#true disconnect, remove instances and subscribers
+
+2021-10-27 22:00:02,790 INFO [AUTO-DELETE-IP] service: Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":8030,"healthy":false,"cluster":"DEFAULT","extendDatum":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.31.170:20881/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=sca-business-order&bind.ip=192.168.31.170&bind.port=20881&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=sca-business-order&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=10068&qos.enable=false&release=2.7.6&revision=2.1.2.RELEASE&serialization=kryo&side=provider&timestamp=1635343021661&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20881","preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.137.1#8030#DEFAULT#sca-parent@@sca-business-order"},"lastHeartBeatTime":1635343168805,"metadataId":"192.168.137.1:8030:DEFAULT"}
+
+2021-10-27 22:00:02,790 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, 192.168.137.1:8030#true
+
+2021-10-27 22:00:03,683 INFO Client connection 192.168.31.170:49951#true connect
+
+2021-10-27 22:00:03,686 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=2}, 192.168.137.1:8030#true
+
+2021-10-27 22:00:20,577 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=3}, 192.168.137.1:8030#true
+
+2021-10-27 22:00:42,026 INFO Client connection 192.168.31.170:59627#true connect
+
+2021-10-27 22:00:46,461 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=4}, 192.168.137.1:8030#true
+
+2021-10-27 22:00:56,015 INFO Client connection 192.168.31.170:49951#true disconnect, remove instances and subscribers
+
+2021-10-27 22:03:35,651 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=5}, 192.168.137.1:8030#true
+
+2021-10-27 22:03:53,111 INFO Client connection 192.168.31.170:50806#true connect
+
+2021-10-27 22:03:57,568 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=6}, 192.168.137.1:8030#true
+
+2021-10-27 22:04:06,038 INFO Client connection 192.168.31.170:59627#true disconnect, remove instances and subscribers
+
+2021-10-27 22:07:00,548 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=9}, 192.168.137.1:8010#true
+
+2021-10-27 22:07:00,659 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=7}, 192.168.137.1:8030#true
+
+2021-10-27 22:07:23,818 INFO Client connection 192.168.31.170:63554#true connect
+
+2021-10-27 22:07:26,064 INFO Client connection 192.168.31.170:63014#true disconnect, remove instances and subscribers
+
+2021-10-27 22:07:27,810 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=10}, 192.168.137.1:8010#true
+
+2021-10-27 22:07:31,065 INFO Client connection 192.168.31.170:50806#true disconnect, remove instances and subscribers
+
+2021-10-27 22:07:31,065 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 22:08:00,765 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-order] services are automatically cleaned
+
+2021-10-27 22:08:05,814 INFO Client connection 192.168.31.170:54598#true connect
+
+2021-10-27 22:08:10,416 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 22:08:10,416 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=0}, 192.168.137.1:8030#true
+
+2021-10-27 22:11:21,088 INFO Client connection 192.168.31.170:54598#true disconnect, remove instances and subscribers
+
+2021-10-27 22:11:25,441 INFO [AUTO-DELETE-IP] service: Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":8030,"healthy":false,"cluster":"DEFAULT","extendDatum":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.31.170:20881/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=sca-business-order&bind.ip=192.168.31.170&bind.port=20881&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=sca-business-order&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=13696&qos.enable=false&release=2.7.6&revision=2.1.2.RELEASE&serialization=kryo&side=provider&timestamp=1635343689308&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20881","preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.137.1#8030#DEFAULT#sca-parent@@sca-business-order"},"lastHeartBeatTime":1635343850480,"metadataId":"192.168.137.1:8030:DEFAULT"}
+
+2021-10-27 22:11:25,441 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, 192.168.137.1:8030#true
+
+2021-10-27 22:11:26,088 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 22:13:00,768 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-order] services are automatically cleaned
+
+2021-10-27 22:13:38,762 INFO Client connection 192.168.31.170:54598#true connect
+
+2021-10-27 22:13:38,766 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 22:13:38,766 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=0}, 192.168.137.1:8030#true
+
+2021-10-27 22:15:14,458 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, 192.168.137.1:8030#true
+
+2021-10-27 22:15:31,313 INFO Client connection 192.168.31.170:61885#true connect
+
+2021-10-27 22:15:35,750 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=2}, 192.168.137.1:8030#true
+
+2021-10-27 22:15:41,119 INFO Client connection 192.168.31.170:54598#true disconnect, remove instances and subscribers
+
+2021-10-27 22:16:46,420 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=3}, 192.168.137.1:8030#true
+
+2021-10-27 22:17:03,214 INFO Client connection 192.168.31.170:59229#true connect
+
+2021-10-27 22:17:07,654 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=4}, 192.168.137.1:8030#true
+
+2021-10-27 22:17:16,128 INFO Client connection 192.168.31.170:61885#true disconnect, remove instances and subscribers
+
+2021-10-27 22:19:06,141 INFO Client connection 192.168.31.170:59229#true disconnect, remove instances and subscribers
+
+2021-10-27 22:19:08,804 INFO [AUTO-DELETE-IP] service: Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=5}, ip: {"ip":"192.168.137.1","port":8030,"healthy":false,"cluster":"DEFAULT","extendDatum":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.31.170:20881/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=sca-business-order&bind.ip=192.168.31.170&bind.port=20881&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=sca-business-order&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=6516&qos.enable=false&release=2.7.6&revision=2.1.2.RELEASE&serialization=kryo&side=provider&timestamp=1635344226546&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20881","preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.137.1#8030#DEFAULT#sca-parent@@sca-business-order"},"lastHeartBeatTime":1635344317687,"metadataId":"192.168.137.1:8030:DEFAULT"}
+
+2021-10-27 22:19:08,804 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=5}, 192.168.137.1:8030#true
+
+2021-10-27 22:19:11,142 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 22:19:39,802 INFO Client connection 192.168.31.170:59229#true connect
+
+2021-10-27 22:19:39,805 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 22:19:39,805 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=6}, 192.168.137.1:8030#true
+
+2021-10-27 22:23:04,393 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=11}, 192.168.137.1:8010#true
+
+2021-10-27 22:23:04,502 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=7}, 192.168.137.1:8030#true
+
+2021-10-27 22:23:23,205 INFO Client connection 192.168.31.170:50723#true connect
+
+2021-10-27 22:23:26,171 INFO Client connection 192.168.31.170:63554#true disconnect, remove instances and subscribers
+
+2021-10-27 22:23:27,186 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=12}, 192.168.137.1:8010#true
+
+2021-10-27 22:23:31,172 INFO Client connection 192.168.31.170:59229#true disconnect, remove instances and subscribers
+
+2021-10-27 22:23:36,172 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 22:23:50,755 INFO Client connection 192.168.31.170:52258#true connect
+
+2021-10-27 22:23:55,196 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 22:23:55,196 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=8}, 192.168.137.1:8030#true
+
+2021-10-27 22:26:21,724 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=13}, 192.168.137.1:8010#true
+
+2021-10-27 22:26:21,835 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=9}, 192.168.137.1:8030#true
+
+2021-10-27 22:26:42,739 INFO Client connection 192.168.31.170:53583#true connect
+
+2021-10-27 22:26:46,195 INFO Client connection 192.168.31.170:50723#true disconnect, remove instances and subscribers
+
+2021-10-27 22:26:46,924 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=14}, 192.168.137.1:8010#true
+
+2021-10-27 22:26:51,196 INFO Client connection 192.168.31.170:52258#true disconnect, remove instances and subscribers
+
+2021-10-27 22:26:56,197 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 22:26:58,133 INFO Client connection 192.168.31.170:64527#true connect
+
+2021-10-27 22:27:02,635 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 22:27:02,635 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=10}, 192.168.137.1:8030#true
+
+2021-10-27 22:30:56,647 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=11}, 192.168.137.1:8030#true
+
+2021-10-27 22:31:26,231 INFO Client connection 192.168.31.170:64527#true disconnect, remove instances and subscribers
+
+2021-10-27 22:31:31,232 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 22:32:00,780 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-order] services are automatically cleaned
+
+2021-10-27 22:32:39,493 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=15}, 192.168.137.1:8010#true
+
+2021-10-27 22:33:06,243 INFO Client connection 192.168.31.170:53583#true disconnect, remove instances and subscribers
+
+2021-10-27 22:33:11,244 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 22:34:00,782 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-book] services are automatically cleaned
+
+2021-10-27 22:38:08,848 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 22:38:08,848 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, 192.168.137.1:8010#true
+
+2021-10-27 22:38:58,276 INFO Client connection 192.168.31.170:53959#true connect
+
+2021-10-27 22:39:31,291 INFO Client connection 192.168.31.170:53959#true disconnect, remove instances and subscribers
+
+2021-10-27 22:39:55,457 INFO Client connection 192.168.31.170:53120#true connect
+
+2021-10-27 22:40:26,297 INFO Client connection 192.168.31.170:53120#true disconnect, remove instances and subscribers
+
+2021-10-27 22:41:44,709 INFO Client connection 192.168.31.170:62138#true connect
+
+2021-10-27 22:41:51,867 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, 192.168.137.1:8010#true
+
+2021-10-27 22:42:16,307 INFO Client connection 192.168.31.170:62138#true disconnect, remove instances and subscribers
+
+2021-10-27 22:42:21,940 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, 192.168.137.1:8010#true
+
+2021-10-27 22:42:25,423 INFO Client connection 192.168.31.170:62861#true connect
+
+2021-10-27 22:42:29,855 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 22:42:29,855 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=0}, 192.168.137.1:8030#true
+
+2021-10-27 22:42:48,031 INFO Client connection 192.168.31.170:65412#true connect
+
+2021-10-27 22:43:35,800 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=3}, 192.168.137.1:8010#true
+
+2021-10-27 22:43:35,908 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, 192.168.137.1:8030#true
+
+2021-10-27 22:44:01,317 INFO Client connection 192.168.31.170:62861#true disconnect, remove instances and subscribers
+
+2021-10-27 22:44:01,317 INFO Client connection 192.168.31.170:65412#true disconnect, remove instances and subscribers
+
+2021-10-27 22:44:05,281 INFO Client connection 192.168.31.170:54731#true connect
+
+2021-10-27 22:44:06,318 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 22:44:06,318 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 22:44:09,230 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 22:44:09,230 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=4}, 192.168.137.1:8010#true
+
+2021-10-27 22:45:00,792 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-order] services are automatically cleaned
+
+2021-10-27 22:48:08,833 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, 192.168.137.1:8010#true
+
+2021-10-27 22:48:41,351 INFO Client connection 192.168.31.170:54731#true disconnect, remove instances and subscribers
+
+2021-10-27 22:48:41,351 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 22:50:00,797 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-book] services are automatically cleaned
+
+2021-10-27 22:52:48,856 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 22:52:48,856 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, 192.168.137.1:8010#true
+
+2021-10-27 22:53:21,529 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, 192.168.137.1:8010#true
+
+2021-10-27 22:53:41,178 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, 192.168.137.1:8010#true
+
+2021-10-27 22:54:00,986 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=3}, 192.168.137.1:8010#true
+
+2021-10-27 22:54:21,465 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=4}, 192.168.137.1:8010#true
+
+2021-10-27 22:54:45,802 INFO Client connection 192.168.31.170:58072#true connect
+
+2021-10-27 22:55:00,548 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 22:55:00,548 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=0}, 192.168.137.1:8030#true
+
+2021-10-27 22:55:17,558 INFO Client connection 192.168.31.170:57999#true connect
+
+2021-10-27 22:55:31,100 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, 192.168.137.1:8010#true
+
+2021-10-27 22:55:31,210 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, 192.168.137.1:8030#true
+
+2021-10-27 22:55:57,823 INFO Client connection 192.168.31.170:58528#true connect
+
+2021-10-27 22:56:01,403 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 22:56:01,403 INFO Client connection 192.168.31.170:58072#true disconnect, remove instances and subscribers
+
+2021-10-27 22:56:01,403 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 22:56:01,403 INFO Client connection 192.168.31.170:57999#true disconnect, remove instances and subscribers
+
+2021-10-27 22:56:01,919 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 22:56:01,919 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=6}, 192.168.137.1:8010#true
+
+2021-10-27 22:56:15,844 INFO Client connection 192.168.31.170:60660#true connect
+
+2021-10-27 22:56:29,604 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 22:56:29,604 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=2}, 192.168.137.1:8030#true
+
+2021-10-27 22:56:52,649 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=7}, 192.168.137.1:8010#true
+
+2021-10-27 22:56:52,761 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=3}, 192.168.137.1:8030#true
+
+2021-10-27 22:57:21,412 INFO Client connection 192.168.31.170:60660#true disconnect, remove instances and subscribers
+
+2021-10-27 22:57:21,412 INFO Client connection 192.168.31.170:58528#true disconnect, remove instances and subscribers
+
+2021-10-27 22:57:26,412 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 22:57:26,412 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 22:58:00,802 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-book] services are automatically cleaned
+
+2021-10-27 22:58:00,802 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-order] services are automatically cleaned
+
+2021-10-27 22:58:16,842 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 22:58:16,842 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, 192.168.137.1:8010#true
+
+2021-10-27 22:58:40,510 INFO Client connection 192.168.31.170:60715#true connect
+
+2021-10-27 22:58:45,111 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 22:58:45,111 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=0}, 192.168.137.1:8030#true
+
+2021-10-27 22:59:12,938 INFO Client connection 192.168.31.170:53729#true connect
+
+2021-10-27 22:59:33,926 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, 192.168.137.1:8010#true
+
+2021-10-27 22:59:34,035 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, 192.168.137.1:8030#true
+
+2021-10-27 22:59:56,093 INFO Client connection 192.168.31.170:51641#true connect
+
+2021-10-27 23:00:06,432 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 23:00:06,432 INFO Client connection 192.168.31.170:60715#true disconnect, remove instances and subscribers
+
+2021-10-27 23:00:06,432 INFO Client connection 192.168.31.170:53729#true disconnect, remove instances and subscribers
+
+2021-10-27 23:00:06,432 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 23:00:26,434 INFO Client connection 192.168.31.170:51641#true disconnect, remove instances and subscribers
+
+2021-10-27 23:00:29,414 INFO Client connection 192.168.31.170:61589#true connect
+
+2021-10-27 23:01:00,804 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-book] services are automatically cleaned
+
+2021-10-27 23:01:00,804 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-order] services are automatically cleaned
+
+2021-10-27 23:01:01,438 INFO Client connection 192.168.31.170:61589#true disconnect, remove instances and subscribers
+
+2021-10-27 23:03:12,995 INFO Client connection 192.168.31.170:62967#true connect
+
+2021-10-27 23:03:46,456 INFO Client connection 192.168.31.170:62967#true disconnect, remove instances and subscribers
+
+2021-10-27 23:04:50,645 INFO Client connection 192.168.31.170:59187#true connect
+
+2021-10-27 23:04:54,637 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 23:04:54,638 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=0}, 192.168.137.1:8030#true
+
+2021-10-27 23:05:32,441 INFO Client connection 192.168.31.170:54615#true connect
+
+2021-10-27 23:05:37,037 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 23:05:37,037 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, 192.168.137.1:8010#true
+
+2021-10-27 23:06:44,651 INFO [AUTO-DELETE-IP] service: Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, ip: {"ip":"192.168.137.1","port":8030,"healthy":false,"cluster":"DEFAULT","extendDatum":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.31.170:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=sca-business-order&bind.ip=192.168.31.170&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=sca-business-order&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=7224&qos.enable=false&release=2.7.6&revision=2.1.2.RELEASE&serialization=kryo&side=provider&timestamp=1635347093502&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20880","preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.137.1#8030#DEFAULT#sca-parent@@sca-business-order"},"lastHeartBeatTime":1635347169960,"metadataId":"192.168.137.1:8030:DEFAULT"}
+
+2021-10-27 23:06:44,651 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, 192.168.137.1:8030#true
+
+2021-10-27 23:06:46,480 INFO Client connection 192.168.31.170:59187#true disconnect, remove instances and subscribers
+
+2021-10-27 23:06:46,480 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 23:06:51,618 INFO Client connection 192.168.31.170:59187#true connect
+
+2021-10-27 23:06:51,622 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 23:06:51,622 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=2}, 192.168.137.1:8030#true
+
+2021-10-27 23:06:53,393 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, 192.168.137.1:8010#true
+
+2021-10-27 23:06:53,503 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=3}, 192.168.137.1:8030#true
+
+2021-10-27 23:07:10,893 INFO Client connection 192.168.31.170:53755#true connect
+
+2021-10-27 23:07:14,899 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, 192.168.137.1:8010#true
+
+2021-10-27 23:07:26,484 INFO Client connection 192.168.31.170:59187#true disconnect, remove instances and subscribers
+
+2021-10-27 23:07:26,484 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 23:07:26,484 INFO Client connection 192.168.31.170:54615#true disconnect, remove instances and subscribers
+
+2021-10-27 23:08:00,823 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-order] services are automatically cleaned
+
+2021-10-27 23:08:40,079 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=3}, 192.168.137.1:8010#true
+
+2021-10-27 23:09:01,802 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=4}, 192.168.137.1:8010#true
+
+2021-10-27 23:09:06,497 INFO Client connection 192.168.31.170:53755#true disconnect, remove instances and subscribers
+
+2021-10-27 23:11:09,485 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, 192.168.137.1:8010#true
+
+2021-10-27 23:11:31,835 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=6}, 192.168.137.1:8010#true
+
+2021-10-27 23:11:31,919 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=7}, 192.168.137.1:8010#true
+
+2021-10-27 23:11:56,662 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=8}, 192.168.137.1:8010#true
+
+2021-10-27 23:22:18,879 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=9}, 192.168.137.1:8010#true
+
+2021-10-27 23:22:51,589 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 23:23:43,528 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 23:23:43,529 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=10}, 192.168.137.1:8010#true
+
+2021-10-27 23:26:53,817 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=11}, 192.168.137.1:8010#true
+
+2021-10-27 23:27:14,981 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=12}, 192.168.137.1:8010#true
+
+2021-10-27 23:27:41,486 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=13}, 192.168.137.1:8010#true
+
+2021-10-27 23:28:11,626 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 23:28:28,972 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 23:28:28,972 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=14}, 192.168.137.1:8010#true
+
+2021-10-27 23:29:34,808 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=15}, 192.168.137.1:8010#true
+
+2021-10-27 23:30:06,639 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+
+2021-10-27 23:31:00,838 WARN namespace : e51b0432-97f2-4e3e-9013-bb42b2aeda15, [sca-parent@@sca-business-book] services are automatically cleaned
+
+2021-10-27 23:32:31,870 INFO Client connection 192.168.137.1:8010#true connect
+
+2021-10-27 23:32:31,870 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, 192.168.137.1:8010#true
+
+2021-10-27 23:33:38,151 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, 192.168.137.1:8010#true
+
+2021-10-27 23:33:59,042 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, 192.168.137.1:8010#true
+
+2021-10-27 23:37:15,057 INFO Client connection 192.168.31.170:61587#true connect
+
+2021-10-27 23:37:19,652 INFO Client connection 192.168.137.1:8030#true connect
+
+2021-10-27 23:37:19,652 INFO Client change for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=0}, 192.168.137.1:8030#true
+
+2021-10-27 23:37:25,150 INFO Client connection 192.168.31.170:59689#true connect
+
+2021-10-27 23:37:34,206 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=3}, 192.168.137.1:8010#true
+
+2021-10-27 23:37:34,419 INFO Client remove for service Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, 192.168.137.1:8030#true
+
+2021-10-27 23:37:56,690 INFO Client connection 192.168.31.170:61587#true disconnect, remove instances and subscribers
+
+2021-10-27 23:37:56,690 INFO Client connection 192.168.31.170:59689#true disconnect, remove instances and subscribers
+
+2021-10-27 23:38:06,692 INFO Client connection 192.168.137.1:8030#true disconnect, remove instances and subscribers
+
+2021-10-27 23:38:06,692 INFO Client connection 192.168.137.1:8010#true disconnect, remove instances and subscribers
+

@@ -1,0 +1,20 @@
+2021-10-28 21:05:38,313 INFO [dump-all-ok] sca-common.yml+common, 1635342718000, length=114, md5=251a2cffe181aba3b15a11ce857ce751
+
+2021-10-28 21:05:38,316 INFO [dump-all-ok] sca-business-portal.yml+dev, 1635337636000, length=11, md5=be5254c18cded2e369e3d6cf7d39d4c5
+
+2021-10-28 21:05:38,317 INFO [dump-all-ok] sca-business-book.yml+dev, 1635348700000, length=419, md5=be69d6ba2047d48e29d8011e3a1c0375
+
+2021-10-28 21:05:38,317 INFO [dump-all-ok] sca-business-order.yml+dev, 1635348873000, length=420, md5=fee7505b7f349ae926320ecf037eddc9
+
+2021-10-28 22:03:27,611 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-28 22:40:12,423 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-28 23:01:00,073 INFO [dump-task] add task. groupKey=sca-gateway.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-gateway.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-28 23:15:25,550 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-28 23:20:43,420 INFO [dump-task] add task. groupKey=sca-gateway.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-gateway.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-28 23:31:51,300 INFO [dump-task] add task. groupKey=sca-gateway.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-gateway.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+

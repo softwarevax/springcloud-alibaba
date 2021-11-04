@@ -1,0 +1,82 @@
+2021-10-27 19:03:48,487 INFO [dump-task] add task. groupKey=sca-common.yml+DEFAULT_GROUP, taskKey=sca-common.yml+DEFAULT_GROUP++false+null
+
+2021-10-27 19:04:16,992 INFO [dump-task] add task. groupKey=sca-common.yml+DEFAULT_GROUP, taskKey=sca-common.yml+DEFAULT_GROUP++false+null
+
+2021-10-27 19:16:42,724 INFO [dump-task] add task. groupKey=sca-common.yml+DEV+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+DEV+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:16:59,977 INFO [dump-task] add task. groupKey=sca-common.yml+DEV+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+DEV+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:17:00,048 WARN [dump-ignore] ignore to save cache file. groupKey=sca-common.yml+DEV+e51b0432-97f2-4e3e-9013-bb42b2aeda15, md5=49b0cefa0930c9bbefa9d5e890f405b1, lastModifiedOld=1635333402714, lastModifiedNew=1635333419874
+
+2021-10-27 19:20:10,693 INFO [dump-task] add task. groupKey=sca-common.yml+DEV+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+DEV+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:21:06,000 INFO [dump-task] add task. groupKey=sca-common.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:24:42,915 INFO [dump-task] add task. groupKey=sca-common.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:25:01,211 INFO [dump-task] add task. groupKey=sca-common.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:43:40,463 INFO [dump-task] add task. groupKey=sca-common.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:43:58,966 INFO [dump-task] add task. groupKey=sca-cmmmon.yml+COMMON+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-cmmmon.yml+COMMON+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:45:13,528 INFO [dump-task] add task. groupKey=sca-cmmmon.yml+COMMON+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-cmmmon.yml+COMMON+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:45:43,557 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:46:36,307 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:47:05,272 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:48:24,720 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:49:37,294 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:49:47,434 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 19:57:05,488 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:06:24,325 INFO [dump-task] add task. groupKey=sca-portal+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-portal+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:07:00,606 INFO [dump-task] add task. groupKey=sca-portal+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-portal+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:07:19,676 INFO [dump-task] add task. groupKey=sca-business-portal+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-portal+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:08:07,781 INFO [dump-task] add task. groupKey=sca-business-portal+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-portal+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:08:29,313 INFO [dump-task] add task. groupKey=sca-business-portal.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-portal.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:10:29,368 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:20:28,221 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:27:03,341 INFO [dump-task] add task. groupKey=sca-business-portal.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-portal.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:27:16,002 INFO [dump-task] add task. groupKey=sca-business-portal.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-portal.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:27:50,124 INFO [dump-task] add task. groupKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:28:00,164 INFO [dump-task] add task. groupKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:28:38,290 INFO [dump-task] add task. groupKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 20:31:09,011 INFO [dump-task] add task. groupKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 21:16:59,546 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 21:51:58,331 INFO [dump-task] add task. groupKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-common.yml+common+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 21:52:30,251 INFO [dump-task] add task. groupKey=sca-business-order.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-order.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 21:55:04,558 INFO [dump-task] add task. groupKey=sca-business-order.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-order.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 21:55:13,127 INFO [dump-task] add task. groupKey=sca-business-order.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-order.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 22:47:34,477 INFO [dump-task] add task. groupKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 22:47:50,810 INFO [dump-task] add task. groupKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 23:31:39,808 INFO [dump-task] add task. groupKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-book.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+
+2021-10-27 23:34:33,250 INFO [dump-task] add task. groupKey=sca-business-order.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15, taskKey=sca-business-order.yml+dev+e51b0432-97f2-4e3e-9013-bb42b2aeda15+false+null
+

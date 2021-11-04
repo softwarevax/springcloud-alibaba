@@ -1,0 +1,144 @@
+2021-06-17 13:15:04,903 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623906884906
+
+2021-06-17 13:20:05,304 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623907188864
+
+2021-06-17 13:20:05,304 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623907185292
+
+2021-06-17 13:20:05,430 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623907187838
+
+2021-06-17 13:20:06,609 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623907188167
+
+2021-06-17 13:20:06,609 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623907186617
+
+2021-06-17 13:49:44,382 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623908968139
+
+2021-06-17 13:49:45,933 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623908967368
+
+2021-06-17 13:49:47,355 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:8020@DEFAULT@sca-business-order, region: unknown, msg: client last beat: 1623908967368
+
+2021-06-17 13:49:47,512 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:8010@DEFAULT@sca-business-book, region: unknown, msg: client last beat: 1623908967542
+
+2021-06-17 13:49:49,387 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623908969833
+
+2021-06-17 13:49:49,387 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623908969395
+
+2021-06-17 13:49:50,934 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623908970934
+
+2021-06-17 13:49:53,311 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2021-06-17 18:14:57,967 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623924881294
+
+2021-06-17 18:48:26,927 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623926888422
+
+2021-06-17 18:50:57,198 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623927041504
+
+2021-06-17 18:56:22,737 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623927362930
+
+2021-06-17 19:54:13,832 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623930834491
+
+2021-06-17 20:06:54,664 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623931594740
+
+2021-06-17 20:07:53,403 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623931658371
+
+2021-06-17 20:27:58,776 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623932860457
+
+2021-06-17 20:28:02,396 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623932862925
+
+2021-06-17 20:28:43,841 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623932908532
+
+2021-06-17 20:28:47,461 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623932912393
+
+2021-06-17 20:29:52,570 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623932973591
+
+2021-06-17 20:29:53,275 INFO service: DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book {POS} {IP-ENABLED} valid: 192.168.182.1:0@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-17 20:31:04,063 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623933048395
+
+2021-06-17 20:31:04,063 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623933048395
+
+2021-06-17 20:31:05,638 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:8020@DEFAULT@sca-business-order, region: unknown, msg: client last beat: 1623933048380
+
+2021-06-17 20:31:07,710 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623933048380
+
+2021-06-17 20:31:14,228 INFO service: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order {POS} {IP-ENABLED} valid: 192.168.79.1:8029@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-17 20:31:14,228 INFO service: DEFAULT_GROUP@@sca-business-order {POS} {IP-ENABLED} valid: 192.168.182.1:8020@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-17 20:31:14,228 INFO service: DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService:: {POS} {IP-ENABLED} valid: 192.168.79.1:8029@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-17 20:31:14,229 INFO service: DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book {POS} {IP-ENABLED} valid: 192.168.182.1:0@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-17 20:33:29,320 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623933189467
+
+2021-06-17 20:33:29,320 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623933189484
+
+2021-06-17 20:34:34,441 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623933256310
+
+2021-06-17 20:35:48,188 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623933333072
+
+2021-06-17 20:35:49,562 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623933334226
+
+2021-06-17 20:35:51,127 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:8020@DEFAULT@sca-business-order, region: unknown, msg: client last beat: 1623933335770
+
+2021-06-17 20:35:53,189 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623933336581
+
+2021-06-17 20:35:53,500 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623933335257
+
+2021-06-17 20:35:54,566 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623933335707
+
+2021-06-17 20:35:54,849 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:8010@DEFAULT@sca-business-book, region: unknown, msg: client last beat: 1623933335257
+
+2021-06-17 20:43:22,388 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623933784249
+
+2021-06-17 20:43:25,514 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623933785603
+
+2021-06-17 20:43:27,397 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:8029@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623933787463
+
+2021-06-17 20:45:40,736 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623933925226
+
+2021-06-17 20:45:42,300 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20881@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623933923786
+
+2021-06-17 20:45:44,485 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623933926757
+
+2021-06-17 20:45:44,485 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623933925084
+
+2021-06-17 20:45:45,740 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623933926415
+
+2021-06-17 20:45:47,305 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20881@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623933927369
+
+2021-06-17 20:53:34,720 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623934399697
+
+2021-06-17 20:53:36,055 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20881@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623934401040
+
+2021-06-17 20:53:38,966 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623934400370
+
+2021-06-17 20:53:39,731 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623934400117
+
+2021-06-17 20:53:39,731 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623934403163
+
+2021-06-17 20:57:05,884 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623934610848
+
+2021-06-17 20:57:05,884 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623934609383
+
+2021-06-17 20:57:07,201 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20881@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623934608596
+
+2021-06-17 20:57:10,800 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623934610817
+
+2021-06-17 20:57:10,894 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.softwarevax.sca.common.api.book.BookService::, region: unknown, msg: client last beat: 1623934611237
+
+2021-06-17 21:00:44,803 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623934826403
+
+2021-06-17 21:02:24,672 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623934929665
+
+2021-06-17 21:02:26,628 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:8010@DEFAULT@sca-business-book, region: unknown, msg: client last beat: 1623934931083
+
+2021-06-17 21:02:29,678 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:0@DEFAULT@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623934932102
+
+2021-06-17 21:02:29,975 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20880@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book, region: unknown, msg: client last beat: 1623934931021
+
+2021-06-17 21:02:30,993 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20881@DEFAULT@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order, region: unknown, msg: client last beat: 1623934932774
+
+2021-06-17 21:02:30,993 INFO {POS} {IP-DISABLED} valid: 192.168.79.1:20881@DEFAULT@providers:com.softwarevax.sca.business.order.service.OrderService::, region: unknown, msg: client last beat: 1623934930991
+
+2021-06-17 21:02:32,849 INFO {POS} {IP-DISABLED} valid: 192.168.182.1:8020@DEFAULT@sca-business-order, region: unknown, msg: client last beat: 1623934932993
+

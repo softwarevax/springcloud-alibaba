@@ -1,0 +1,88 @@
+2021-06-15 20:20:30,863 INFO notifyConnectTimeout:200
+
+2021-06-15 20:20:30,868 INFO notifySocketTimeout:8000
+
+2021-06-15 20:20:30,868 INFO isHealthCheck:true
+
+2021-06-15 20:20:30,868 INFO maxHealthCheckFailCount:12
+
+2021-06-15 20:20:30,868 INFO maxContent:10485760
+
+2021-06-15 20:22:44,945 INFO notifyConnectTimeout:200
+
+2021-06-15 20:22:44,948 INFO notifySocketTimeout:8000
+
+2021-06-15 20:22:44,948 INFO isHealthCheck:true
+
+2021-06-15 20:22:44,948 INFO maxHealthCheckFailCount:12
+
+2021-06-15 20:22:44,948 INFO maxContent:10485760
+
+2021-06-15 20:22:58,563 INFO use local db service for init
+
+2021-06-15 20:23:02,746 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2021-06-15 20:23:02,804 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2021-06-15 20:23:04,237 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2021-06-15 20:23:04,237 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2021-06-15 20:23:04,237 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2021-06-15 20:23:04,238 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2021-06-15 20:23:04,238 INFO use StandaloneDatabaseOperateImpl
+
+2021-06-15 20:23:06,628 WARN DumpService start
+
+2021-06-15 20:23:06,629 INFO start clear all config-info.
+
+2021-06-15 20:23:06,631 WARN clear all config-info failed.
+
+2021-06-15 20:23:06,632 WARN clear all config-info-tenant failed.
+
+2021-06-15 20:23:07,005 INFO start clear all config-info-beta.
+
+2021-06-15 20:23:07,005 WARN clear all config-info-beta failed.
+
+2021-06-15 20:23:07,005 WARN clear all config-info-beta-tenant failed.
+
+2021-06-15 20:23:07,018 INFO start clear all config-info-tag.
+
+2021-06-15 20:23:07,019 WARN clear all config-info-tag failed.
+
+2021-06-15 20:23:07,019 WARN clear all config-info-tag-tenant failed.
+
+2021-06-15 20:28:28,925 INFO notifyConnectTimeout:200
+
+2021-06-15 20:28:28,928 INFO notifySocketTimeout:8000
+
+2021-06-15 20:28:28,928 INFO isHealthCheck:true
+
+2021-06-15 20:28:28,928 INFO maxHealthCheckFailCount:12
+
+2021-06-15 20:28:28,928 INFO maxContent:10485760
+
+2021-06-15 20:28:28,929 INFO spring.datasource.platform:mysql
+
+2021-06-15 20:28:51,644 WARN DumpService start
+
+2021-06-15 20:28:51,645 INFO start clear all config-info.
+
+2021-06-15 20:28:51,646 WARN clear all config-info failed.
+
+2021-06-15 20:28:51,647 WARN clear all config-info-tenant failed.
+
+2021-06-15 20:28:51,652 INFO start clear all config-info-beta.
+
+2021-06-15 20:28:51,653 WARN clear all config-info-beta failed.
+
+2021-06-15 20:28:51,653 WARN clear all config-info-beta-tenant failed.
+
+2021-06-15 20:28:51,654 INFO start clear all config-info-tag.
+
+2021-06-15 20:28:51,654 WARN clear all config-info-tag failed.
+
+2021-06-15 20:28:51,655 WARN clear all config-info-tag-tenant failed.
+

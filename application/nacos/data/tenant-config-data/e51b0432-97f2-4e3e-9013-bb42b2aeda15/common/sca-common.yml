@@ -1,0 +1,24 @@
+service:
+  group:
+    name: sca-parent
+  book:
+    port: 8010
+  portal:
+    port: 8020
+  order:
+    port: 8030
+  gateway:
+    port: 8000
+
+swagger:
+  service:
+  - value: sca-service-book
+    name: 书籍管理
+  - value: sca-service-order
+    name: 订单管理
+spring:
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+  

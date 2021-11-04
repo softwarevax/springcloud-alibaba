@@ -1,0 +1,8 @@
+apply from: "../../config.gradle"
+
+description "前端页面的展示实体，一般用于controller"
+
+dependencies {
+    compile 'org.projectlombok:lombok'
+    annotationProcessor('org.projectlombok:lombok')
+}

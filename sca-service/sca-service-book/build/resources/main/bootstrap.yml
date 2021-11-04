@@ -1,0 +1,65 @@
+server:
+  port: ${service.book.port:0}
+
+spring:
+  application:
+    name: sca-service-book
+  profiles:
+    active: dev # 默认开发环境，可通过启动设置参数-Dspring.profiles.active=test设置参数
+  main:
+    allow-bean-definition-overriding: true
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        namespace: e51b0432-97f2-4e3e-9013-bb42b2aeda15
+        group: ${service.group.name}
+      config:
+        server-addr: 127.0.0.1:8848
+        file-extension: yml
+        namespace: e51b0432-97f2-4e3e-9013-bb42b2aeda15
+        group: ${spring.profiles.active}
+        ext-config:
+          - data-id: sca-common.yml
+            group: common
+            refresh: true
+
+dubbo:
+  scan:
+    base-packages: com.softwarevax.sca.service.book.service
+  protocol:
+    name: dubbo
+    port: -1
+    serialization: kryo
+  registry:
+    address: spring-cloud://localhost
+    parameters[namespace]: e51b0432-97f2-4e3e-9013-bb42b2aeda15
+
+mybatis-plus:
+  mapper-locations: classpath:mappers/*.xml
+  type-aliases-package: com.softwarevax.sca.common.entity
+
+seata:
+  application-id: ${spring.application.name}
+  config:
+    nacos:
+      group: DEFAULT_GROUP
+      namespace: e51b0432-97f2-4e3e-9013-bb42b2aeda15
+      password: nacos
+      username: nacos
+      server-addr: localhost:8848
+    type: nacos
+  registry:
+    nacos:
+      application: seata-server
+      group: DEFAULT_GROUP
+      namespace: e51b0432-97f2-4e3e-9013-bb42b2aeda15
+      password: nacos
+      username: nacos
+      server-addr: localhost:8848
+    type: nacos
+  service:
+    vgroup-mapping:
+      sca-service-book: default
+  tx-service-group: sca-service-book
+

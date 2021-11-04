@@ -1,0 +1,9 @@
+apply from: "../../config.gradle"
+
+description "工具包"
+
+dependencies {
+    compile 'org.projectlombok:lombok'
+    compile rootProject.ext.dependencies["kryo"]
+    annotationProcessor('org.projectlombok:lombok')
+}

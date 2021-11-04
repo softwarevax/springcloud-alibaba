@@ -1,0 +1,440 @@
+2021-10-28 21:45:13,422 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:45:13,445 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:65468, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,65468,9176485290228
+
+2021-10-28 21:45:13,446 INFO send udp packet: 192.168.31.170,65468,9176485290228
+
+2021-10-28 21:45:13,459 INFO [PUSH-SUCC] 39ms, all delay time 578ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, DataSize=1
+
+2021-10-28 21:45:28,087 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:45:28,087 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:56069, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,56069,9191149491984
+
+2021-10-28 21:45:28,087 INFO send udp packet: 192.168.31.170,56069,9191149491984
+
+2021-10-28 21:45:28,092 INFO [PUSH-SUCC] 5ms, all delay time 592ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, DataSize=1
+
+2021-10-28 21:46:47,586 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:46:47,586 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:56069, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,56069,9270647807180
+
+2021-10-28 21:46:47,586 INFO send udp packet: 192.168.31.170,56069,9270647807180
+
+2021-10-28 21:46:47,588 INFO [PUSH-SUCC] 2ms, all delay time 595ms, SLA 595ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=2}, DataSize=0, target=192.168.31.170
+
+2021-10-28 21:47:05,652 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:47:05,652 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:60516, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,60516,9288714626694
+
+2021-10-28 21:47:05,652 INFO send udp packet: 192.168.31.170,60516,9288714626694
+
+2021-10-28 21:47:05,657 INFO [PUSH-SUCC] 5ms, all delay time 538ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, DataSize=1
+
+2021-10-28 21:47:10,172 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:47:10,172 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:56069, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,56069,9293233705038
+
+2021-10-28 21:47:10,172 INFO send udp packet: 192.168.31.170,56069,9293233705038
+
+2021-10-28 21:47:10,175 INFO [PUSH-SUCC] 3ms, all delay time 567ms, SLA 567ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=3}, DataSize=1, target=192.168.31.170
+
+2021-10-28 21:47:48,766 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:47:48,766 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:56069, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,56069,9331828214509
+
+2021-10-28 21:47:48,766 INFO send udp packet: 192.168.31.170,56069,9331828214509
+
+2021-10-28 21:47:48,769 INFO [PUSH-SUCC] 3ms, all delay time 585ms, SLA 585ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=4}, DataSize=0, target=192.168.31.170
+
+2021-10-28 21:48:07,726 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:48:07,726 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:65534, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,65534,9350788057778
+
+2021-10-28 21:48:07,726 INFO send udp packet: 192.168.31.170,65534,9350788057778
+
+2021-10-28 21:48:07,731 INFO [PUSH-SUCC] 5ms, all delay time 515ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, DataSize=1
+
+2021-10-28 21:48:12,347 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:48:12,347 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:56069, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,56069,9355408835454
+
+2021-10-28 21:48:12,347 INFO send udp packet: 192.168.31.170,56069,9355408835454
+
+2021-10-28 21:48:12,350 INFO [PUSH-SUCC] 3ms, all delay time 602ms, SLA 602ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=5}, DataSize=1, target=192.168.31.170
+
+2021-10-28 21:49:15,577 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:49:15,577 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:65534, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,65534,9418638977650
+
+2021-10-28 21:49:15,577 INFO send udp packet: 192.168.31.170,65534,9418638977650
+
+2021-10-28 21:49:15,579 INFO [PUSH-SUCC] 2ms, all delay time 585ms, SLA 585ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, DataSize=0, target=192.168.31.170
+
+2021-10-28 21:49:15,678 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:49:15,678 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:56069, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,56069,9418739724211
+
+2021-10-28 21:49:15,678 INFO send udp packet: 192.168.31.170,56069,9418739724211
+
+2021-10-28 21:49:25,679 INFO retry to push data, key: 192.168.31.170,56069,9418739724211
+
+2021-10-28 21:49:35,680 WARN max re-push times reached, retry times 2, key: 192.168.31.170,56069,9418739724211
+
+2021-10-28 21:49:35,680 ERROR [PUSH-FAIL] 20002ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=6}, reason=null, target=192.168.31.170
+
+2021-10-28 21:50:22,566 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:50:22,566 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:58534, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,58534,9485627619856
+
+2021-10-28 21:50:22,566 INFO send udp packet: 192.168.31.170,58534,9485627619856
+
+2021-10-28 21:50:22,570 INFO [PUSH-SUCC] 4ms, all delay time 598ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, DataSize=0
+
+2021-10-28 21:51:26,356 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:51:26,356 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:57852, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57852,9549418436157
+
+2021-10-28 21:51:26,356 INFO send udp packet: 192.168.31.170,57852,9549418436157
+
+2021-10-28 21:51:26,360 INFO [PUSH-SUCC] 4ms, all delay time 559ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, DataSize=0
+
+2021-10-28 21:53:02,723 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:53:02,723 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:58244, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,58244,9645784733305
+
+2021-10-28 21:53:02,723 INFO send udp packet: 192.168.31.170,58244,9645784733305
+
+2021-10-28 21:53:02,823 INFO [PUSH-SUCC] 100ms, all delay time 654ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, DataSize=0
+
+2021-10-28 21:54:53,538 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:54:53,538 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:51980, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51980,9756600538869
+
+2021-10-28 21:54:53,538 INFO send udp packet: 192.168.31.170,51980,9756600538869
+
+2021-10-28 21:54:53,685 INFO [PUSH-SUCC] 147ms, all delay time 682ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, DataSize=0
+
+2021-10-28 21:56:13,322 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:56:13,322 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:54735, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,54735,9836384564472
+
+2021-10-28 21:56:13,322 INFO send udp packet: 192.168.31.170,54735,9836384564472
+
+2021-10-28 21:56:13,401 INFO [PUSH-SUCC] 79ms, all delay time 662ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, DataSize=0
+
+2021-10-28 21:57:13,412 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:57:13,412 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,9896474305150
+
+2021-10-28 21:57:13,412 INFO send udp packet: 192.168.31.170,51200,9896474305150
+
+2021-10-28 21:57:13,473 INFO [PUSH-SUCC] 61ms, all delay time 568ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=15}, DataSize=1
+
+2021-10-28 21:57:18,237 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:57:18,237 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:54735, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,54735,9901299599286
+
+2021-10-28 21:57:18,237 INFO send udp packet: 192.168.31.170,54735,9901299599286
+
+2021-10-28 21:57:18,245 INFO [PUSH-SUCC] 8ms, all delay time 509ms, SLA 509ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, DataSize=1, target=192.168.31.170
+
+2021-10-28 21:58:18,747 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:58:18,747 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,9961809566358
+
+2021-10-28 21:58:18,747 INFO send udp packet: 192.168.31.170,51200,9961809566358
+
+2021-10-28 21:58:18,750 INFO [PUSH-SUCC] 3ms, all delay time 574ms, SLA 574ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=16}, DataSize=0, target=192.168.31.170
+
+2021-10-28 21:58:39,216 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 21:58:39,216 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:62199, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,62199,9982278602000
+
+2021-10-28 21:58:39,216 INFO send udp packet: 192.168.31.170,62199,9982278602000
+
+2021-10-28 21:58:39,221 INFO [PUSH-SUCC] 5ms, all delay time 527ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, DataSize=1
+
+2021-10-28 21:58:43,937 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:58:43,937 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,9986999500694
+
+2021-10-28 21:58:43,937 INFO send udp packet: 192.168.31.170,51200,9986999500694
+
+2021-10-28 21:58:43,941 INFO [PUSH-SUCC] 4ms, all delay time 516ms, SLA 516ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=17}, DataSize=1, target=192.168.31.170
+
+2021-10-28 21:59:51,766 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 21:59:51,766 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,10054828466630
+
+2021-10-28 21:59:51,766 INFO send udp packet: 192.168.31.170,51200,10054828466630
+
+2021-10-28 21:59:51,768 INFO [PUSH-SUCC] 2ms, all delay time 516ms, SLA 517ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=18}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:00:18,956 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:00:18,956 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:59783, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,59783,10082018321627
+
+2021-10-28 22:00:18,956 INFO send udp packet: 192.168.31.170,59783,10082018321627
+
+2021-10-28 22:00:18,961 INFO [PUSH-SUCC] 5ms, all delay time 569ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, DataSize=1
+
+2021-10-28 22:00:23,679 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:00:23,679 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,10086741175582
+
+2021-10-28 22:00:23,679 INFO send udp packet: 192.168.31.170,51200,10086741175582
+
+2021-10-28 22:00:23,682 INFO [PUSH-SUCC] 3ms, all delay time 535ms, SLA 535ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=19}, DataSize=1, target=192.168.31.170
+
+2021-10-28 22:00:46,891 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:00:46,891 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,10109953382972
+
+2021-10-28 22:00:46,891 INFO send udp packet: 192.168.31.170,51200,10109953382972
+
+2021-10-28 22:00:46,894 INFO [PUSH-SUCC] 3ms, all delay time 590ms, SLA 590ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=20}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:01:07,167 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:01:07,167 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:51920, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51920,10130228690824
+
+2021-10-28 22:01:07,167 INFO send udp packet: 192.168.31.170,51920,10130228690824
+
+2021-10-28 22:01:07,223 INFO [PUSH-SUCC] 56ms, all delay time 578ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, DataSize=1
+
+2021-10-28 22:01:11,985 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:01:11,985 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,10135046740443
+
+2021-10-28 22:01:11,985 INFO send udp packet: 192.168.31.170,51200,10135046740443
+
+2021-10-28 22:01:11,987 INFO [PUSH-SUCC] 2ms, all delay time 511ms, SLA 511ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=21}, DataSize=1, target=192.168.31.170
+
+2021-10-28 22:03:33,415 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:03:33,415 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,10276477099287
+
+2021-10-28 22:03:33,415 INFO send udp packet: 192.168.31.170,51200,10276477099287
+
+2021-10-28 22:03:33,418 INFO [PUSH-SUCC] 3ms, all delay time 544ms, SLA 545ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=22}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:03:52,278 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:03:52,278 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:57101, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57101,10295340124502
+
+2021-10-28 22:03:52,278 INFO send udp packet: 192.168.31.170,57101,10295340124502
+
+2021-10-28 22:03:52,282 INFO [PUSH-SUCC] 4ms, all delay time 546ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, DataSize=1
+
+2021-10-28 22:03:56,999 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:03:56,999 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,10300060973124
+
+2021-10-28 22:03:56,999 INFO send udp packet: 192.168.31.170,51200,10300060973124
+
+2021-10-28 22:03:57,001 INFO [PUSH-SUCC] 2ms, all delay time 515ms, SLA 515ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=23}, DataSize=1, target=192.168.31.170
+
+2021-10-28 22:07:01,089 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:07:01,089 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:57101, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57101,10484150757527
+
+2021-10-28 22:07:01,089 INFO send udp packet: 192.168.31.170,57101,10484150757527
+
+2021-10-28 22:07:01,092 INFO [PUSH-SUCC] 3ms, all delay time 543ms, SLA 543ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:07:03,401 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:07:03,401 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:51200, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,51200,10486462663147
+
+2021-10-28 22:07:03,401 INFO send udp packet: 192.168.31.170,51200,10486462663147
+
+2021-10-28 22:07:13,403 INFO retry to push data, key: 192.168.31.170,51200,10486462663147
+
+2021-10-28 22:07:23,404 WARN max re-push times reached, retry times 2, key: 192.168.31.170,51200,10486462663147
+
+2021-10-28 22:07:23,404 ERROR [PUSH-FAIL] 20003ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=24}, reason=null, target=192.168.31.170
+
+2021-10-28 22:10:00,729 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:10:00,729 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:57694, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57694,10663791357921
+
+2021-10-28 22:10:00,729 INFO send udp packet: 192.168.31.170,57694,10663791357921
+
+2021-10-28 22:10:00,733 INFO [PUSH-SUCC] 4ms, all delay time 551ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=0}, DataSize=0
+
+2021-10-28 22:10:09,054 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:10:09,054 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:63442, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,63442,10672115904155
+
+2021-10-28 22:10:09,054 INFO send udp packet: 192.168.31.170,63442,10672115904155
+
+2021-10-28 22:10:09,105 INFO [PUSH-SUCC] 51ms, all delay time 589ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=1}, DataSize=1
+
+2021-10-28 22:10:13,875 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:10:13,875 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:57694, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57694,10676936876969
+
+2021-10-28 22:10:13,875 INFO send udp packet: 192.168.31.170,57694,10676936876969
+
+2021-10-28 22:10:13,883 INFO [PUSH-SUCC] 8ms, all delay time 536ms, SLA 536ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=1}, DataSize=1, target=192.168.31.170
+
+2021-10-28 22:15:57,590 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:15:57,590 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:63442, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,63442,11020652341130
+
+2021-10-28 22:15:57,590 INFO send udp packet: 192.168.31.170,63442,11020652341130
+
+2021-10-28 22:15:57,592 INFO [PUSH-SUCC] 2ms, all delay time 536ms, SLA 536ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=2}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:15:57,690 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:15:57,690 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:57694, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57694,11020752625762
+
+2021-10-28 22:15:57,690 INFO send udp packet: 192.168.31.170,57694,11020752625762
+
+2021-10-28 22:16:07,692 INFO retry to push data, key: 192.168.31.170,57694,11020752625762
+
+2021-10-28 22:16:17,693 WARN max re-push times reached, retry times 2, key: 192.168.31.170,57694,11020752625762
+
+2021-10-28 22:16:17,693 ERROR [PUSH-FAIL] 20003ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=2}, reason=null, target=192.168.31.170
+
+2021-10-28 22:16:22,491 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:16:22,491 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:53962, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,53962,11045552751858
+
+2021-10-28 22:16:22,491 INFO send udp packet: 192.168.31.170,53962,11045552751858
+
+2021-10-28 22:16:22,495 INFO [PUSH-SUCC] 4ms, all delay time 508ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=2}, DataSize=0
+
+2021-10-28 22:16:38,243 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:16:38,243 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:60108, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,60108,11061304779582
+
+2021-10-28 22:16:38,243 INFO send udp packet: 192.168.31.170,60108,11061304779582
+
+2021-10-28 22:16:38,248 INFO [PUSH-SUCC] 5ms, all delay time 532ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=3}, DataSize=1
+
+2021-10-28 22:16:43,171 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:16:43,171 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:53962, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,53962,11066233376752
+
+2021-10-28 22:16:43,171 INFO send udp packet: 192.168.31.170,53962,11066233376752
+
+2021-10-28 22:16:43,178 INFO [PUSH-SUCC] 7ms, all delay time 541ms, SLA 541ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=3}, DataSize=1, target=192.168.31.170
+
+2021-10-28 22:18:10,109 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:18:10,109 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:60108, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,60108,11153171475892
+
+2021-10-28 22:18:10,110 INFO send udp packet: 192.168.31.170,60108,11153171475892
+
+2021-10-28 22:18:10,113 INFO [PUSH-SUCC] 4ms, all delay time 523ms, SLA 523ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=4}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:18:32,085 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:18:32,085 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:57869, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57869,11175147148139
+
+2021-10-28 22:18:32,085 INFO send udp packet: 192.168.31.170,57869,11175147148139
+
+2021-10-28 22:18:32,089 INFO [PUSH-SUCC] 4ms, all delay time 593ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=3}, DataSize=1
+
+2021-10-28 22:18:36,806 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:18:36,806 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:60108, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,60108,11179867721015
+
+2021-10-28 22:18:36,806 INFO send udp packet: 192.168.31.170,60108,11179867721015
+
+2021-10-28 22:18:36,809 INFO [PUSH-SUCC] 3ms, all delay time 597ms, SLA 597ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, DataSize=1, target=192.168.31.170
+
+2021-10-28 22:21:41,254 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:21:41,254 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:57869, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57869,11364315749145
+
+2021-10-28 22:21:41,254 INFO send udp packet: 192.168.31.170,57869,11364315749145
+
+2021-10-28 22:21:41,257 INFO [PUSH-SUCC] 3ms, all delay time 565ms, SLA 565ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=4}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:22:01,719 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:22:01,719 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:64683, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,64683,11384781482528
+
+2021-10-28 22:22:01,719 INFO send udp packet: 192.168.31.170,64683,11384781482528
+
+2021-10-28 22:22:01,724 INFO [PUSH-SUCC] 5ms, all delay time 591ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, DataSize=1
+
+2021-10-28 22:22:06,445 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:22:06,445 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:57869, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57869,11389507341838
+
+2021-10-28 22:22:06,445 INFO send udp packet: 192.168.31.170,57869,11389507341838
+
+2021-10-28 22:22:06,447 INFO [PUSH-SUCC] 2ms, all delay time 538ms, SLA 538ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=5}, DataSize=1, target=192.168.31.170
+
+2021-10-28 22:23:19,021 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:23:19,022 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:57869, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57869,11462083941186
+
+2021-10-28 22:23:19,022 INFO send udp packet: 192.168.31.170,57869,11462083941186
+
+2021-10-28 22:23:19,025 INFO [PUSH-SUCC] 4ms, all delay time 515ms, SLA 515ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=6}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:23:39,595 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:23:39,595 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:61020, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,61020,11482656775994
+
+2021-10-28 22:23:39,595 INFO send udp packet: 192.168.31.170,61020,11482656775994
+
+2021-10-28 22:23:39,600 INFO [PUSH-SUCC] 5ms, all delay time 575ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, DataSize=1
+
+2021-10-28 22:23:44,317 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:23:44,317 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:57869, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57869,11487378809409
+
+2021-10-28 22:23:44,317 INFO send udp packet: 192.168.31.170,57869,11487378809409
+
+2021-10-28 22:23:44,320 INFO [PUSH-SUCC] 3ms, all delay time 524ms, SLA 524ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=7}, DataSize=1, target=192.168.31.170
+
+2021-10-28 22:25:18,093 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:25:18,093 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:57869, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57869,11581154755498
+
+2021-10-28 22:25:18,093 INFO send udp packet: 192.168.31.170,57869,11581154755498
+
+2021-10-28 22:25:18,095 INFO [PUSH-SUCC] 2ms, all delay time 516ms, SLA 516ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=8}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:25:38,560 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:25:38,560 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:63326, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,63326,11601622293928
+
+2021-10-28 22:25:38,560 INFO send udp packet: 192.168.31.170,63326,11601622293928
+
+2021-10-28 22:25:38,598 INFO [PUSH-SUCC] 38ms, all delay time 551ms for subscriber 192.168.31.170, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=5}, DataSize=1
+
+2021-10-28 22:25:43,379 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:25:43,379 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:57869, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57869,11606441385883
+
+2021-10-28 22:25:43,379 INFO send udp packet: 192.168.31.170,57869,11606441385883
+
+2021-10-28 22:25:43,381 INFO [PUSH-SUCC] 2ms, all delay time 562ms, SLA 562ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=9}, DataSize=1, target=192.168.31.170
+
+2021-10-28 22:54:20,846 INFO sca-parent@@sca-business-order is changed, add it to push queue.
+
+2021-10-28 22:54:20,846 INFO serviceName: sca-parent@@sca-business-order changed, schedule push for: 192.168.31.170:57869, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,57869,13323907948269
+
+2021-10-28 22:54:20,846 INFO send udp packet: 192.168.31.170,57869,13323907948269
+
+2021-10-28 22:54:20,851 INFO [PUSH-SUCC] 5ms, all delay time 558ms, SLA 558ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-order', ephemeral=true, revision=10}, DataSize=0, target=192.168.31.170
+
+2021-10-28 22:54:20,946 INFO sca-parent@@sca-business-book is changed, add it to push queue.
+
+2021-10-28 22:54:20,946 INFO serviceName: sca-parent@@sca-business-book changed, schedule push for: 192.168.31.170:63326, agent: Nacos-Java-Client:v1.2.1, key: 192.168.31.170,63326,13324008054830
+
+2021-10-28 22:54:20,946 INFO send udp packet: 192.168.31.170,63326,13324008054830
+
+2021-10-28 22:54:30,947 INFO retry to push data, key: 192.168.31.170,63326,13324008054830
+
+2021-10-28 22:54:40,948 WARN max re-push times reached, retry times 2, key: 192.168.31.170,63326,13324008054830
+
+2021-10-28 22:54:40,948 ERROR [PUSH-FAIL] 20002ms, Service{namespace='e51b0432-97f2-4e3e-9013-bb42b2aeda15', group='sca-parent', name='sca-business-book', ephemeral=true, revision=6}, reason=null, target=192.168.31.170
+

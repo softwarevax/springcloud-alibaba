@@ -1,0 +1,1366 @@
+2021-06-17 12:59:00,150 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2021-06-17 12:59:00,150 WARN Using naming.distro config to replace core.distro config
+
+2021-06-17 12:59:00,456 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-06-17 12:59:00,458 INFO listen for service meta change
+
+2021-06-17 13:11:54,586 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 13:11:54,587 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 13:11:54,626 INFO Client connection 192.168.79.1:60827#true connect
+
+2021-06-17 13:11:56,155 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 13:11:56,159 INFO Client connection 192.168.79.1:60832#true connect
+
+2021-06-17 13:11:56,211 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 13:11:56,211 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-17 13:12:22,328 INFO Client connection 192.168.79.1:60810#true connect
+
+2021-06-17 13:14:47,168 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 13:14:47,207 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:8010#true
+
+2021-06-17 13:15:03,112 INFO Client connection 192.168.79.1:62402#true connect
+
+2021-06-17 13:15:05,479 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 13:15:05,483 INFO Client connection 192.168.79.1:62412#true connect
+
+2021-06-17 13:15:07,175 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 13:15:07,225 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=2}, 192.168.182.1:8010#true
+
+2021-06-17 13:15:08,190 INFO Client connection 192.168.79.1:62421#true connect
+
+2021-06-17 13:15:15,081 INFO Client connection 192.168.79.1:60810#true disconnect, remove instances and subscribers
+
+2021-06-17 13:15:20,093 INFO Client connection 192.168.79.1:60827#true disconnect, remove instances and subscribers
+
+2021-06-17 13:15:20,093 INFO Client connection 192.168.79.1:60832#true disconnect, remove instances and subscribers
+
+2021-06-17 13:16:33,460 INFO Client connection 192.168.79.1:51236#true connect
+
+2021-06-17 13:16:34,925 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 13:16:34,925 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 13:16:35,268 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 13:16:35,273 INFO Client connection 192.168.79.1:51246#true connect
+
+2021-06-17 13:16:35,948 INFO Client connection 192.168.79.1:51245#true connect
+
+2021-06-17 13:16:36,218 INFO Client connection 192.168.79.1:8029#true connect
+
+2021-06-17 13:16:36,218 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=0}, 192.168.79.1:8029#true
+
+2021-06-17 13:16:36,220 INFO Client connection 192.168.79.1:51251#true connect
+
+2021-06-17 13:16:37,713 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.79.1:8029#true
+
+2021-06-17 13:16:37,750 INFO Client connection 192.168.182.1:8020#true connect
+
+2021-06-17 13:16:37,750 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:8020#true
+
+2021-06-17 13:16:38,493 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 13:16:38,727 INFO Client connection 192.168.79.1:51252#true connect
+
+2021-06-17 13:16:39,637 INFO Client connection 192.168.79.1:51257#true connect
+
+2021-06-17 13:19:38,670 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 13:19:38,914 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 13:19:48,712 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=3}, 192.168.182.1:8010#true
+
+2021-06-17 13:19:48,723 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=1}, 192.168.182.1:8020#true
+
+2021-06-17 13:20:10,578 INFO Client connection 192.168.79.1:51257#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:15,315 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"9948","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-order","sticky":"false","category":"consumers","group":"sca-business-book","timestamp":"1623906993658"},"lastHeartBeatTime":1623907185292,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 13:20:15,315 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 13:20:15,581 INFO Client connection 192.168.79.1:51236#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:15,581 INFO Client connection 192.168.79.1:62402#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:16,621 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":8029,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"*","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"9948","interface":"com.softwarevax.sca.business.order.service.OrderService","customInstanceId":"192.168.79.1#8029#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::","generic":"false","path":"com.softwarevax.sca.business.order.service.OrderService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623906995432"},"lastHeartBeatTime":1623907186617,"metadataId":"192.168.79.1:8029:DEFAULT"}
+
+2021-06-17 13:20:16,621 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, 192.168.79.1:8029#true
+
+2021-06-17 13:20:20,318 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"3556","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-book","sticky":"false","category":"consumers","group":"sca-business-order","timestamp":"1623906998327"},"lastHeartBeatTime":1623907188864,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 13:20:20,318 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 13:20:20,444 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=3}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"3556","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-book","timestamp":"1623906906447"},"lastHeartBeatTime":1623907187838,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 13:20:20,444 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=3}, 192.168.79.1:20880#true
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.182.1:0#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.79.1:20880#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.79.1:51251#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.79.1:51245#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.182.1:8020#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.79.1:51252#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.79.1:62412#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.182.1:8010#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.79.1:51246#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:20,584 INFO Client connection 192.168.79.1:62421#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:21,634 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":8029,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"9948","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#8029#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-order","timestamp":"1623906997000"},"lastHeartBeatTime":1623907188167,"metadataId":"192.168.79.1:8029:DEFAULT"}
+
+2021-06-17 13:20:21,634 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.79.1:8029#true
+
+2021-06-17 13:20:25,589 INFO Client connection 192.168.79.1:8029#true disconnect, remove instances and subscribers
+
+2021-06-17 13:20:40,498 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 13:20:40,498 WARN namespace : public, [DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 13:21:40,513 WARN namespace : public, [DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::] services are automatically cleaned
+
+2021-06-17 13:21:40,513 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 13:21:40,513 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 13:21:40,514 WARN namespace : public, [DEFAULT_GROUP@@sca-business-order] services are automatically cleaned
+
+2021-06-17 13:21:40,514 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 13:21:40,514 WARN namespace : public, [DEFAULT_GROUP@@sca-business-book] services are automatically cleaned
+
+2021-06-17 13:21:40,514 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 13:47:53,543 INFO Client connection 192.168.79.1:52415#true connect
+
+2021-06-17 13:47:55,724 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 13:47:55,724 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 13:47:55,727 INFO Client connection 192.168.79.1:52424#true connect
+
+2021-06-17 13:47:57,293 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 13:47:57,342 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 13:47:57,342 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-17 13:47:58,299 INFO Client connection 192.168.79.1:52435#true connect
+
+2021-06-17 13:48:17,960 INFO Client connection 192.168.79.1:52358#true connect
+
+2021-06-17 13:48:19,238 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 13:48:19,238 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 13:48:19,694 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 13:48:19,699 INFO Client connection 192.168.79.1:52368#true connect
+
+2021-06-17 13:48:20,255 INFO Client connection 192.168.79.1:52367#true connect
+
+2021-06-17 13:48:20,714 INFO Client connection 192.168.79.1:8029#true connect
+
+2021-06-17 13:48:20,714 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=0}, 192.168.79.1:8029#true
+
+2021-06-17 13:48:20,715 INFO Client connection 192.168.79.1:52369#true connect
+
+2021-06-17 13:48:22,208 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.79.1:8029#true
+
+2021-06-17 13:48:22,244 INFO Client connection 192.168.182.1:8020#true connect
+
+2021-06-17 13:48:22,244 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:8020#true
+
+2021-06-17 13:48:23,013 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 13:48:23,220 INFO Client connection 192.168.79.1:52378#true connect
+
+2021-06-17 13:48:24,134 INFO Client connection 192.168.79.1:52380#true connect
+
+2021-06-17 13:49:23,687 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 13:49:23,824 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, 192.168.79.1:8029#true
+
+2021-06-17 13:49:51,676 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2021-06-17 13:49:51,686 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2021-06-17 13:49:51,999 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-06-17 13:49:51,999 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-06-17 17:25:09,602 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2021-06-17 17:25:09,602 WARN Using naming.distro config to replace core.distro config
+
+2021-06-17 17:25:09,796 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-06-17 17:25:09,797 INFO listen for service meta change
+
+2021-06-17 17:26:16,151 INFO Client connection 192.168.79.1:61303#true connect
+
+2021-06-17 17:26:18,383 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 17:26:18,384 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 17:26:18,389 INFO Client connection 192.168.79.1:61310#true connect
+
+2021-06-17 17:26:20,253 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 17:26:20,256 INFO Client connection 192.168.79.1:52702#true connect
+
+2021-06-17 17:26:20,317 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 17:26:20,317 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-17 17:54:23,522 INFO Client connection 192.168.79.1:8091#true connect
+
+2021-06-17 17:54:23,522 INFO Client change for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=0}, 192.168.79.1:8091#true
+
+2021-06-17 17:56:53,368 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=1}, 192.168.79.1:8091#true
+
+2021-06-17 17:56:57,563 INFO Client remove for service Service{namespace='public', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=2}, 192.168.79.1:8091#true
+
+2021-06-17 17:57:30,576 INFO Client connection 192.168.79.1:8091#true disconnect, remove instances and subscribers
+
+2021-06-17 17:57:54,967 INFO Client connection 192.168.79.1:8091#true connect
+
+2021-06-17 17:57:54,967 INFO Client change for service Service{namespace='9ef25658-deb8-44aa-8e8c-0ad3f4a180a6', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=0}, 192.168.79.1:8091#true
+
+2021-06-17 17:58:44,167 WARN namespace : public, [SEATA_GROUP@@seata-server] services are automatically cleaned
+
+2021-06-17 18:14:41,420 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 18:14:41,436 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:8010#true
+
+2021-06-17 18:15:07,265 INFO Client connection 192.168.79.1:52702#true disconnect, remove instances and subscribers
+
+2021-06-17 18:15:07,266 INFO Client connection 192.168.79.1:61310#true disconnect, remove instances and subscribers
+
+2021-06-17 18:15:12,281 INFO Client connection 192.168.182.1:8010#true disconnect, remove instances and subscribers
+
+2021-06-17 18:15:12,281 INFO Client connection 192.168.79.1:61303#true disconnect, remove instances and subscribers
+
+2021-06-17 18:15:12,995 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"16600","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-book","timestamp":"1623921979419"},"lastHeartBeatTime":1623924881294,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 18:15:12,995 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 18:15:17,293 INFO Client connection 192.168.79.1:20880#true disconnect, remove instances and subscribers
+
+2021-06-17 18:15:44,285 WARN namespace : public, [DEFAULT_GROUP@@sca-business-book] services are automatically cleaned
+
+2021-06-17 18:15:44,285 WARN namespace : public, [DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 18:16:44,289 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 18:47:39,831 INFO Client connection 192.168.79.1:56204#true connect
+
+2021-06-17 18:47:41,867 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 18:47:41,867 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 18:47:41,871 INFO Client connection 192.168.79.1:56209#true connect
+
+2021-06-17 18:47:43,362 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 18:47:43,401 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 18:47:43,401 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-17 18:47:44,372 INFO Client connection 192.168.79.1:56210#true connect
+
+2021-06-17 18:48:08,348 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 18:48:08,372 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:8010#true
+
+2021-06-17 18:48:24,164 INFO Client connection 192.168.79.1:58172#true connect
+
+2021-06-17 18:48:26,226 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 18:48:26,229 INFO Client connection 192.168.79.1:58177#true connect
+
+2021-06-17 18:48:27,732 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 18:48:27,791 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=2}, 192.168.182.1:8010#true
+
+2021-06-17 18:48:28,736 INFO Client connection 192.168.79.1:58182#true connect
+
+2021-06-17 18:48:35,612 INFO Client connection 192.168.79.1:56209#true disconnect, remove instances and subscribers
+
+2021-06-17 18:48:35,612 INFO Client connection 192.168.79.1:56204#true disconnect, remove instances and subscribers
+
+2021-06-17 18:48:35,612 INFO Client connection 192.168.79.1:56210#true disconnect, remove instances and subscribers
+
+2021-06-17 18:50:43,091 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 18:50:43,109 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=3}, 192.168.182.1:8010#true
+
+2021-06-17 18:50:58,561 INFO Client connection 192.168.79.1:58758#true connect
+
+2021-06-17 18:51:00,715 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=3}, 192.168.79.1:20880#true
+
+2021-06-17 18:51:00,719 INFO Client connection 192.168.79.1:58765#true connect
+
+2021-06-17 18:51:02,266 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=3}, 192.168.79.1:20880#true
+
+2021-06-17 18:51:02,319 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=4}, 192.168.182.1:8010#true
+
+2021-06-17 18:51:03,278 INFO Client connection 192.168.79.1:58771#true connect
+
+2021-06-17 18:51:05,852 INFO Client connection 192.168.79.1:58172#true disconnect, remove instances and subscribers
+
+2021-06-17 18:51:10,861 INFO Client connection 192.168.79.1:58182#true disconnect, remove instances and subscribers
+
+2021-06-17 18:51:10,861 INFO Client connection 192.168.79.1:58177#true disconnect, remove instances and subscribers
+
+2021-06-17 18:56:06,154 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=4}, 192.168.79.1:20880#true
+
+2021-06-17 18:56:06,175 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=5}, 192.168.182.1:8010#true
+
+2021-06-17 18:56:31,364 INFO Client connection 192.168.79.1:58758#true disconnect, remove instances and subscribers
+
+2021-06-17 18:56:36,369 INFO Client connection 192.168.182.1:8010#true disconnect, remove instances and subscribers
+
+2021-06-17 18:56:36,369 INFO Client connection 192.168.79.1:58771#true disconnect, remove instances and subscribers
+
+2021-06-17 18:56:36,369 INFO Client connection 192.168.79.1:58765#true disconnect, remove instances and subscribers
+
+2021-06-17 18:56:37,757 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=4}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"11344","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-book","timestamp":"1623927061530"},"lastHeartBeatTime":1623927362930,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 18:56:37,757 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=4}, 192.168.79.1:20880#true
+
+2021-06-17 18:56:41,375 INFO Client connection 192.168.79.1:20880#true disconnect, remove instances and subscribers
+
+2021-06-17 18:57:44,649 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@sca-business-book] services are automatically cleaned
+
+2021-06-17 18:57:44,649 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 18:57:44,649 WARN namespace : public, [DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 19:46:00,970 INFO Client connection 192.168.79.1:59894#true connect
+
+2021-06-17 19:46:03,062 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 19:46:03,062 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 19:46:03,066 INFO Client connection 192.168.79.1:58411#true connect
+
+2021-06-17 19:46:04,585 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 19:46:04,640 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 19:46:04,640 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-17 19:46:05,587 INFO Client connection 192.168.79.1:58416#true connect
+
+2021-06-17 19:50:28,632 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 19:50:28,635 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:8010#true
+
+2021-06-17 19:50:45,538 INFO Client connection 192.168.79.1:57572#true connect
+
+2021-06-17 19:50:47,636 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 19:50:47,639 INFO Client connection 192.168.79.1:57578#true connect
+
+2021-06-17 19:50:49,148 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 19:50:49,206 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=2}, 192.168.182.1:8010#true
+
+2021-06-17 19:50:50,164 INFO Client connection 192.168.79.1:57579#true connect
+
+2021-06-17 19:50:56,629 INFO Client connection 192.168.79.1:58416#true disconnect, remove instances and subscribers
+
+2021-06-17 19:50:56,629 INFO Client connection 192.168.79.1:59894#true disconnect, remove instances and subscribers
+
+2021-06-17 19:50:56,629 INFO Client connection 192.168.79.1:58411#true disconnect, remove instances and subscribers
+
+2021-06-17 19:53:58,162 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 19:53:58,165 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=3}, 192.168.182.1:8010#true
+
+2021-06-17 19:54:21,931 INFO Client connection 192.168.79.1:57579#true disconnect, remove instances and subscribers
+
+2021-06-17 19:54:21,931 INFO Client connection 192.168.79.1:57578#true disconnect, remove instances and subscribers
+
+2021-06-17 19:54:26,945 INFO Client connection 192.168.79.1:57572#true disconnect, remove instances and subscribers
+
+2021-06-17 19:54:28,862 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=3}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"14492","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-book","timestamp":"1623930648425"},"lastHeartBeatTime":1623930834491,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 19:54:28,862 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=3}, 192.168.79.1:20880#true
+
+2021-06-17 19:54:31,952 INFO Client connection 192.168.79.1:20880#true disconnect, remove instances and subscribers
+
+2021-06-17 19:54:31,952 INFO Client connection 192.168.182.1:8010#true disconnect, remove instances and subscribers
+
+2021-06-17 19:55:45,101 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@sca-business-book] services are automatically cleaned
+
+2021-06-17 19:55:45,101 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 19:55:45,101 WARN namespace : public, [DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 19:57:36,442 INFO Client connection 192.168.79.1:58263#true connect
+
+2021-06-17 19:57:38,753 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 19:57:38,753 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 19:57:38,758 INFO Client connection 192.168.79.1:53223#true connect
+
+2021-06-17 19:57:40,173 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 19:57:40,241 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 19:57:40,241 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-17 19:57:41,185 INFO Client connection 192.168.79.1:53229#true connect
+
+2021-06-17 20:06:38,712 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 20:06:38,733 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:8010#true
+
+2021-06-17 20:07:03,132 INFO Client connection 192.168.79.1:53229#true disconnect, remove instances and subscribers
+
+2021-06-17 20:07:03,132 INFO Client connection 192.168.79.1:53223#true disconnect, remove instances and subscribers
+
+2021-06-17 20:07:08,135 INFO Client connection 192.168.79.1:58263#true disconnect, remove instances and subscribers
+
+2021-06-17 20:07:09,693 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"queryById","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"8904","interface":"com.softwarevax.sca.common.api.book.BookService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::","generic":"false","serialization":"kryo","path":"com.softwarevax.sca.common.api.book.BookService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623931056671"},"lastHeartBeatTime":1623931594740,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 20:07:09,693 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 20:07:13,153 INFO Client connection 192.168.79.1:20880#true disconnect, remove instances and subscribers
+
+2021-06-17 20:07:13,153 INFO Client connection 192.168.182.1:8010#true disconnect, remove instances and subscribers
+
+2021-06-17 20:07:26,294 INFO Client connection 192.168.79.1:65003#true connect
+
+2021-06-17 20:07:28,356 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 20:07:28,356 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 20:07:28,360 INFO Client connection 192.168.79.1:65008#true connect
+
+2021-06-17 20:07:29,847 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 20:07:29,916 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 20:07:29,916 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=2}, 192.168.182.1:8010#true
+
+2021-06-17 20:07:30,851 INFO Client connection 192.168.79.1:65013#true connect
+
+2021-06-17 20:07:41,159 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=3}, 192.168.79.1:20880#true
+
+2021-06-17 20:07:41,177 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=3}, 192.168.182.1:8010#true
+
+2021-06-17 20:08:08,267 INFO Client connection 192.168.79.1:65003#true disconnect, remove instances and subscribers
+
+2021-06-17 20:08:08,438 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=3}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"queryById","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"6244","interface":"com.softwarevax.sca.common.api.book.BookService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::","generic":"false","serialization":"kryo","path":"com.softwarevax.sca.common.api.book.BookService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623931646497"},"lastHeartBeatTime":1623931658371,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 20:08:08,438 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=3}, 192.168.79.1:20880#true
+
+2021-06-17 20:08:13,269 INFO Client connection 192.168.79.1:20880#true disconnect, remove instances and subscribers
+
+2021-06-17 20:08:13,269 INFO Client connection 192.168.79.1:65008#true disconnect, remove instances and subscribers
+
+2021-06-17 20:08:13,269 INFO Client connection 192.168.182.1:8010#true disconnect, remove instances and subscribers
+
+2021-06-17 20:08:13,269 INFO Client connection 192.168.79.1:65013#true disconnect, remove instances and subscribers
+
+2021-06-17 20:08:45,220 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@sca-business-book] services are automatically cleaned
+
+2021-06-17 20:08:45,220 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 20:09:45,234 WARN namespace : public, [DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 20:22:23,980 INFO Client connection 192.168.79.1:55220#true connect
+
+2021-06-17 20:22:27,040 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 20:22:27,040 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 20:22:27,046 INFO Client connection 192.168.79.1:55229#true connect
+
+2021-06-17 20:22:28,624 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 20:22:28,671 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 20:22:28,672 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-17 20:22:29,632 INFO Client connection 192.168.79.1:55230#true connect
+
+2021-06-17 20:24:50,664 INFO Client connection 192.168.79.1:54569#true connect
+
+2021-06-17 20:24:52,061 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 20:24:52,061 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:24:52,587 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:24:52,591 INFO Client connection 192.168.79.1:60248#true connect
+
+2021-06-17 20:24:53,080 INFO Client connection 192.168.79.1:60247#true connect
+
+2021-06-17 20:24:53,513 INFO Client connection 192.168.79.1:8029#true connect
+
+2021-06-17 20:24:53,513 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=0}, 192.168.79.1:8029#true
+
+2021-06-17 20:24:53,515 INFO Client connection 192.168.79.1:60249#true connect
+
+2021-06-17 20:24:55,002 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.79.1:8029#true
+
+2021-06-17 20:24:55,042 INFO Client connection 192.168.182.1:8020#true connect
+
+2021-06-17 20:24:55,042 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:8020#true
+
+2021-06-17 20:24:55,355 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:24:56,005 INFO Client connection 192.168.79.1:60254#true connect
+
+2021-06-17 20:24:56,502 INFO Client connection 192.168.79.1:60255#true connect
+
+2021-06-17 20:27:34,425 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:27:44,455 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=1}, 192.168.182.1:8020#true
+
+2021-06-17 20:28:00,781 INFO Client connection 192.168.79.1:63406#true connect
+
+2021-06-17 20:28:02,345 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=2}, 192.168.182.1:0#true
+
+2021-06-17 20:28:03,357 INFO Client connection 192.168.79.1:63408#true connect
+
+2021-06-17 20:28:03,479 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, 192.168.79.1:8029#true
+
+2021-06-17 20:28:03,482 INFO Client connection 192.168.79.1:63414#true connect
+
+2021-06-17 20:28:05,028 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.79.1:8029#true
+
+2021-06-17 20:28:05,064 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=2}, 192.168.182.1:8020#true
+
+2021-06-17 20:28:05,687 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:28:06,047 INFO Client connection 192.168.79.1:63416#true connect
+
+2021-06-17 20:28:06,878 INFO Client connection 192.168.79.1:63421#true connect
+
+2021-06-17 20:28:10,328 INFO Client connection 192.168.79.1:60254#true disconnect, remove instances and subscribers
+
+2021-06-17 20:28:15,329 INFO Client connection 192.168.79.1:54569#true disconnect, remove instances and subscribers
+
+2021-06-17 20:28:15,329 INFO Client connection 192.168.79.1:60247#true disconnect, remove instances and subscribers
+
+2021-06-17 20:28:15,329 INFO Client connection 192.168.79.1:60248#true disconnect, remove instances and subscribers
+
+2021-06-17 20:28:15,329 INFO Client connection 192.168.79.1:60249#true disconnect, remove instances and subscribers
+
+2021-06-17 20:28:17,422 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"init":"false","side":"consumer","methods":"queryById","release":"2.7.6","dubbo":"2.0.2","pid":"18944","check":"false","interface":"com.softwarevax.sca.common.api.book.BookService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::","qos.enable":"false","path":"com.softwarevax.sca.common.api.book.BookService","protocol":"consumer","application":"sca-business-order","sticky":"false","category":"consumers","timestamp":"1623932690381"},"lastHeartBeatTime":1623932862925,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:28:17,422 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:28:32,132 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=2}, 192.168.79.1:8029#true
+
+2021-06-17 20:28:32,152 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=3}, 192.168.182.1:8020#true
+
+2021-06-17 20:28:46,927 INFO Client connection 192.168.79.1:56087#true connect
+
+2021-06-17 20:28:48,492 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=3}, 192.168.182.1:0#true
+
+2021-06-17 20:28:49,501 INFO Client connection 192.168.79.1:56093#true connect
+
+2021-06-17 20:28:49,555 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=2}, 192.168.79.1:8029#true
+
+2021-06-17 20:28:49,557 INFO Client connection 192.168.79.1:56094#true connect
+
+2021-06-17 20:28:51,018 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=3}, 192.168.79.1:8029#true
+
+2021-06-17 20:28:51,019 INFO Client connection 192.168.79.1:56096#true connect
+
+2021-06-17 20:28:51,061 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=4}, 192.168.182.1:8020#true
+
+2021-06-17 20:28:51,678 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=2}, 192.168.182.1:0#true
+
+2021-06-17 20:28:52,690 INFO Client connection 192.168.79.1:56097#true connect
+
+2021-06-17 20:28:55,399 INFO Client connection 192.168.79.1:63414#true disconnect, remove instances and subscribers
+
+2021-06-17 20:28:55,399 INFO Client connection 192.168.79.1:63408#true disconnect, remove instances and subscribers
+
+2021-06-17 20:29:00,404 INFO Client connection 192.168.79.1:63416#true disconnect, remove instances and subscribers
+
+2021-06-17 20:29:05,413 INFO Client connection 192.168.79.1:63406#true disconnect, remove instances and subscribers
+
+2021-06-17 20:29:45,413 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 20:31:14,762 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=3}, 192.168.182.1:0#true
+
+2021-06-17 20:31:15,968 INFO Client connection 192.168.79.1:63359#true connect
+
+2021-06-17 20:33:03,550 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=4}, 192.168.182.1:0#true
+
+2021-06-17 20:33:13,577 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=5}, 192.168.182.1:8020#true
+
+2021-06-17 20:33:33,575 INFO Client connection 192.168.79.1:55431#true connect
+
+2021-06-17 20:33:35,108 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=5}, 192.168.182.1:0#true
+
+2021-06-17 20:33:35,916 INFO Client connection 192.168.79.1:56094#true disconnect, remove instances and subscribers
+
+2021-06-17 20:33:35,916 INFO Client connection 192.168.79.1:56087#true disconnect, remove instances and subscribers
+
+2021-06-17 20:33:35,916 INFO Client connection 192.168.79.1:56093#true disconnect, remove instances and subscribers
+
+2021-06-17 20:33:35,916 INFO Client connection 192.168.79.1:56096#true disconnect, remove instances and subscribers
+
+2021-06-17 20:33:36,118 INFO Client connection 192.168.79.1:57722#true connect
+
+2021-06-17 20:33:36,224 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=3}, 192.168.79.1:8029#true
+
+2021-06-17 20:33:36,226 INFO Client connection 192.168.79.1:57723#true connect
+
+2021-06-17 20:33:38,347 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=4}, 192.168.79.1:8029#true
+
+2021-06-17 20:33:38,407 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=6}, 192.168.182.1:8020#true
+
+2021-06-17 20:33:39,022 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=4}, 192.168.182.1:0#true
+
+2021-06-17 20:33:39,359 INFO Client connection 192.168.79.1:57728#true connect
+
+2021-06-17 20:33:40,218 INFO Client connection 192.168.79.1:57729#true connect
+
+2021-06-17 20:34:20,195 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=5}, 192.168.79.1:8029#true
+
+2021-06-17 20:34:20,217 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=7}, 192.168.182.1:8020#true
+
+2021-06-17 20:34:36,770 INFO Client connection 192.168.79.1:52015#true connect
+
+2021-06-17 20:34:37,947 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=6}, 192.168.182.1:0#true
+
+2021-06-17 20:34:38,177 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:34:38,183 INFO Client connection 192.168.79.1:58886#true connect
+
+2021-06-17 20:34:38,963 INFO Client connection 192.168.79.1:58885#true connect
+
+2021-06-17 20:34:39,110 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=4}, 192.168.79.1:8029#true
+
+2021-06-17 20:34:39,112 INFO Client connection 192.168.79.1:58892#true connect
+
+2021-06-17 20:34:40,583 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=6}, 192.168.79.1:8029#true
+
+2021-06-17 20:34:40,585 INFO Client connection 192.168.79.1:58893#true connect
+
+2021-06-17 20:34:40,624 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=8}, 192.168.182.1:8020#true
+
+2021-06-17 20:34:41,171 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=5}, 192.168.182.1:0#true
+
+2021-06-17 20:34:42,360 INFO Client connection 192.168.79.1:58894#true connect
+
+2021-06-17 20:34:45,994 INFO Client connection 192.168.79.1:55431#true disconnect, remove instances and subscribers
+
+2021-06-17 20:34:51,009 INFO Client connection 192.168.79.1:57722#true disconnect, remove instances and subscribers
+
+2021-06-17 20:34:51,009 INFO Client connection 192.168.79.1:57728#true disconnect, remove instances and subscribers
+
+2021-06-17 20:34:51,009 INFO Client connection 192.168.79.1:57723#true disconnect, remove instances and subscribers
+
+2021-06-17 20:35:34,944 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 20:35:35,081 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:35:56,776 INFO Client connection 192.168.79.1:49572#true connect
+
+2021-06-17 20:35:58,980 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 20:35:58,985 INFO Client connection 192.168.79.1:49580#true connect
+
+2021-06-17 20:36:00,640 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 20:36:00,642 INFO Client connection 192.168.79.1:49586#true connect
+
+2021-06-17 20:36:00,705 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:8010#true
+
+2021-06-17 20:36:01,146 INFO Client connection 192.168.79.1:63421#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:01,146 INFO Client connection 192.168.79.1:58886#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:01,146 INFO Client connection 192.168.79.1:60255#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:01,146 INFO Client connection 192.168.79.1:55230#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:01,146 INFO Client connection 192.168.79.1:55229#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:01,146 INFO Client connection 192.168.79.1:52015#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:01,146 INFO Client connection 192.168.79.1:58885#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:01,146 INFO Client connection 192.168.79.1:57729#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:01,146 INFO Client connection 192.168.79.1:58892#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:03,207 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=7}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"21144","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-order","sticky":"false","category":"consumers","group":"sca-business-book","timestamp":"1623933276855"},"lastHeartBeatTime":1623933333072,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:36:03,207 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=7}, 192.168.182.1:0#true
+
+2021-06-17 20:36:04,575 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=5}, ip: {"ip":"192.168.79.1","port":8029,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"queryById","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"21144","interface":"com.softwarevax.sca.business.order.service.OrderService","customInstanceId":"192.168.79.1#8029#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::","generic":"false","serialization":"kryo","path":"com.softwarevax.sca.business.order.service.OrderService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623933278339"},"lastHeartBeatTime":1623933334226,"metadataId":"192.168.79.1:8029:DEFAULT"}
+
+2021-06-17 20:36:04,575 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=5}, 192.168.79.1:8029#true
+
+2021-06-17 20:36:06,147 INFO Client connection 192.168.79.1:55220#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:06,147 INFO Client connection 192.168.79.1:58894#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:06,147 INFO Client connection 192.168.79.1:58893#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:06,147 INFO Client connection 192.168.79.1:56097#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:06,147 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=9}, ip: {"ip":"192.168.182.1","port":8020,"healthy":false,"cluster":"DEFAULT","extendDatum":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.79.1:8029/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=sca-business-order&bind.ip=192.168.79.1&bind.port=8029&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=sca-business-order&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=21144&qos.enable=false&release=2.7.6&revision=2.2.1.RELEASE&serialization=kryo&side=provider&timestamp=1623933279883&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"8029","preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.182.1#8020#DEFAULT#DEFAULT_GROUP@@sca-business-order"},"lastHeartBeatTime":1623933335770,"metadataId":"192.168.182.1:8020:DEFAULT"}
+
+2021-06-17 20:36:06,147 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=9}, 192.168.182.1:8020#true
+
+2021-06-17 20:36:08,207 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=6}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"13968","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-book","sticky":"false","category":"consumers","group":"sca-business-order","timestamp":"1623933281149"},"lastHeartBeatTime":1623933336581,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:36:08,207 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=6}, 192.168.182.1:0#true
+
+2021-06-17 20:36:08,536 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"13968","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-book","timestamp":"1623932547850"},"lastHeartBeatTime":1623933335257,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 20:36:08,536 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 20:36:09,583 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=7}, ip: {"ip":"192.168.79.1","port":8029,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"21144","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#8029#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-order","timestamp":"1623933279883"},"lastHeartBeatTime":1623933335707,"metadataId":"192.168.79.1:8029:DEFAULT"}
+
+2021-06-17 20:36:09,583 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=7}, 192.168.79.1:8029#true
+
+2021-06-17 20:36:11,149 INFO Client connection 192.168.79.1:8029#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:11,149 INFO Client connection 192.168.182.1:8020#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:11,149 INFO Client connection 192.168.182.1:0#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:11,149 INFO Client connection 192.168.79.1:63359#true disconnect, remove instances and subscribers
+
+2021-06-17 20:36:42,872 INFO Client connection 192.168.79.1:52320#true connect
+
+2021-06-17 20:36:44,873 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 20:36:44,873 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:36:45,489 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 20:36:45,490 WARN namespace : public, [DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 20:36:45,534 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:36:45,540 INFO Client connection 192.168.79.1:60329#true connect
+
+2021-06-17 20:36:45,890 INFO Client connection 192.168.79.1:56605#true connect
+
+2021-06-17 20:36:46,705 INFO Client connection 192.168.79.1:8029#true connect
+
+2021-06-17 20:36:46,705 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=0}, 192.168.79.1:8029#true
+
+2021-06-17 20:36:46,707 INFO Client connection 192.168.79.1:60335#true connect
+
+2021-06-17 20:36:48,458 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.79.1:8029#true
+
+2021-06-17 20:36:48,460 INFO Client connection 192.168.79.1:50510#true connect
+
+2021-06-17 20:36:48,497 INFO Client connection 192.168.182.1:8020#true connect
+
+2021-06-17 20:36:48,497 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=10}, 192.168.182.1:8020#true
+
+2021-06-17 20:36:49,190 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:36:50,323 INFO Client connection 192.168.79.1:50516#true connect
+
+2021-06-17 20:37:45,497 WARN namespace : public, [DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::] services are automatically cleaned
+
+2021-06-17 20:37:45,497 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 20:37:45,497 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 20:37:45,497 WARN namespace : public, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 20:37:45,498 WARN namespace : public, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 20:42:58,646 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:43:08,665 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=11}, 192.168.182.1:8020#true
+
+2021-06-17 20:43:24,737 INFO Client connection 192.168.79.1:60294#true connect
+
+2021-06-17 20:43:25,940 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:43:26,161 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=2}, 192.168.182.1:0#true
+
+2021-06-17 20:43:26,166 INFO Client connection 192.168.79.1:60300#true connect
+
+2021-06-17 20:43:26,955 INFO Client connection 192.168.79.1:60299#true connect
+
+2021-06-17 20:43:27,085 INFO Client connection 192.168.79.1:20881#true connect
+
+2021-06-17 20:43:27,085 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, 192.168.79.1:20881#true
+
+2021-06-17 20:43:27,087 INFO Client connection 192.168.79.1:60301#true connect
+
+2021-06-17 20:43:28,562 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.79.1:20881#true
+
+2021-06-17 20:43:28,602 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=12}, 192.168.182.1:8020#true
+
+2021-06-17 20:43:29,183 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:43:29,567 INFO Client connection 192.168.79.1:60306#true connect
+
+2021-06-17 20:43:30,391 INFO Client connection 192.168.79.1:60307#true connect
+
+2021-06-17 20:43:31,861 INFO Client connection 192.168.79.1:50510#true disconnect, remove instances and subscribers
+
+2021-06-17 20:43:36,871 INFO Client connection 192.168.79.1:52320#true disconnect, remove instances and subscribers
+
+2021-06-17 20:43:36,871 INFO Client connection 192.168.79.1:56605#true disconnect, remove instances and subscribers
+
+2021-06-17 20:43:37,418 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=2}, ip: {"ip":"192.168.79.1","port":8029,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"4800","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#8029#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-order","timestamp":"1623933407567"},"lastHeartBeatTime":1623933784249,"metadataId":"192.168.79.1:8029:DEFAULT"}
+
+2021-06-17 20:43:37,418 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=2}, 192.168.79.1:8029#true
+
+2021-06-17 20:43:41,885 INFO Client connection 192.168.79.1:60329#true disconnect, remove instances and subscribers
+
+2021-06-17 20:43:41,885 INFO Client connection 192.168.79.1:60335#true disconnect, remove instances and subscribers
+
+2021-06-17 20:43:42,432 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=2}, ip: {"ip":"192.168.79.1","port":8029,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"queryById","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"4800","interface":"com.softwarevax.sca.business.order.service.OrderService","customInstanceId":"192.168.79.1#8029#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::","generic":"false","serialization":"kryo","path":"com.softwarevax.sca.business.order.service.OrderService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623933405804"},"lastHeartBeatTime":1623933787463,"metadataId":"192.168.79.1:8029:DEFAULT"}
+
+2021-06-17 20:43:42,432 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=2}, 192.168.79.1:8029#true
+
+2021-06-17 20:43:46,890 INFO Client connection 192.168.79.1:8029#true disconnect, remove instances and subscribers
+
+2021-06-17 20:45:18,013 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=2}, 192.168.182.1:0#true
+
+2021-06-17 20:45:18,138 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=2}, 192.168.182.1:0#true
+
+2021-06-17 20:45:20,215 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=3}, 192.168.182.1:0#true
+
+2021-06-17 20:45:28,060 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=2}, 192.168.182.1:8010#true
+
+2021-06-17 20:45:28,070 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=13}, 192.168.182.1:8020#true
+
+2021-06-17 20:45:52,098 INFO Client connection 192.168.79.1:50516#true disconnect, remove instances and subscribers
+
+2021-06-17 20:45:52,098 INFO Client connection 192.168.79.1:60306#true disconnect, remove instances and subscribers
+
+2021-06-17 20:45:52,098 INFO Client connection 192.168.79.1:60307#true disconnect, remove instances and subscribers
+
+2021-06-17 20:45:52,098 INFO Client connection 192.168.79.1:49580#true disconnect, remove instances and subscribers
+
+2021-06-17 20:45:55,751 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=4}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"8972","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-book","sticky":"false","category":"consumers","group":"sca-business-order","timestamp":"1623933409057"},"lastHeartBeatTime":1623933925226,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:45:55,751 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=4}, 192.168.182.1:0#true
+
+2021-06-17 20:45:57,103 INFO Client connection 192.168.79.1:60294#true disconnect, remove instances and subscribers
+
+2021-06-17 20:45:57,103 INFO Client connection 192.168.79.1:49586#true disconnect, remove instances and subscribers
+
+2021-06-17 20:45:57,103 INFO Client connection 192.168.79.1:60299#true disconnect, remove instances and subscribers
+
+2021-06-17 20:45:57,326 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=3}, ip: {"ip":"192.168.79.1","port":20881,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"18528","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#20881#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-order","timestamp":"1623933807849"},"lastHeartBeatTime":1623933923786,"metadataId":"192.168.79.1:20881:DEFAULT"}
+
+2021-06-17 20:45:57,326 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=3}, 192.168.79.1:20881#true
+
+2021-06-17 20:45:59,501 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"8972","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-book","timestamp":"1623933359813"},"lastHeartBeatTime":1623933926757,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 20:45:59,501 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 20:45:59,501 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"queryById","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"8972","interface":"com.softwarevax.sca.common.api.book.BookService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::","generic":"false","serialization":"kryo","path":"com.softwarevax.sca.common.api.book.BookService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623933357008"},"lastHeartBeatTime":1623933925084,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 20:45:59,501 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 20:46:00,758 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=3}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"init":"false","side":"consumer","methods":"queryById","release":"2.7.6","dubbo":"2.0.2","pid":"18528","check":"false","interface":"com.softwarevax.sca.common.api.book.BookService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::","qos.enable":"false","path":"com.softwarevax.sca.common.api.book.BookService","protocol":"consumer","application":"sca-business-order","sticky":"false","category":"consumers","timestamp":"1623933804477"},"lastHeartBeatTime":1623933926415,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:46:00,758 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=3}, 192.168.182.1:0#true
+
+2021-06-17 20:46:02,105 INFO Client connection 192.168.182.1:8020#true disconnect, remove instances and subscribers
+
+2021-06-17 20:46:02,105 INFO Client connection 192.168.182.1:0#true disconnect, remove instances and subscribers
+
+2021-06-17 20:46:02,105 INFO Client connection 192.168.79.1:20880#true disconnect, remove instances and subscribers
+
+2021-06-17 20:46:02,105 INFO Client connection 192.168.79.1:60300#true disconnect, remove instances and subscribers
+
+2021-06-17 20:46:02,105 INFO Client connection 192.168.79.1:49572#true disconnect, remove instances and subscribers
+
+2021-06-17 20:46:02,105 INFO Client connection 192.168.182.1:8010#true disconnect, remove instances and subscribers
+
+2021-06-17 20:46:02,105 INFO Client connection 192.168.79.1:60301#true disconnect, remove instances and subscribers
+
+2021-06-17 20:46:02,338 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=3}, ip: {"ip":"192.168.79.1","port":20881,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"queryById","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"18528","interface":"com.softwarevax.sca.business.order.service.OrderService","customInstanceId":"192.168.79.1#20881#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::","generic":"false","serialization":"kryo","path":"com.softwarevax.sca.business.order.service.OrderService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623933806324"},"lastHeartBeatTime":1623933927369,"metadataId":"192.168.79.1:20881:DEFAULT"}
+
+2021-06-17 20:46:02,338 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=3}, 192.168.79.1:20881#true
+
+2021-06-17 20:46:07,114 INFO Client connection 192.168.79.1:20881#true disconnect, remove instances and subscribers
+
+2021-06-17 20:46:45,567 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 20:46:45,567 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@sca-business-order] services are automatically cleaned
+
+2021-06-17 20:46:45,567 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@sca-business-book] services are automatically cleaned
+
+2021-06-17 20:47:45,576 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 20:47:45,576 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 20:47:45,576 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 20:47:45,576 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::] services are automatically cleaned
+
+2021-06-17 20:47:45,577 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 20:47:45,577 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 20:51:51,800 INFO Client connection 192.168.79.1:61252#true connect
+
+2021-06-17 20:51:53,780 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 20:51:53,781 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 20:51:53,784 INFO Client connection 192.168.79.1:61263#true connect
+
+2021-06-17 20:51:55,194 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 20:51:55,237 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 20:51:55,237 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-17 20:51:56,197 INFO Client connection 192.168.79.1:61264#true connect
+
+2021-06-17 20:52:28,414 INFO Client connection 192.168.79.1:65175#true connect
+
+2021-06-17 20:52:29,638 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 20:52:29,638 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:52:30,010 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:52:30,014 INFO Client connection 192.168.79.1:65182#true connect
+
+2021-06-17 20:52:30,657 INFO Client connection 192.168.79.1:65181#true connect
+
+2021-06-17 20:52:30,941 INFO Client connection 192.168.79.1:20881#true connect
+
+2021-06-17 20:52:30,941 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=0}, 192.168.79.1:20881#true
+
+2021-06-17 20:52:30,945 INFO Client connection 192.168.79.1:65183#true connect
+
+2021-06-17 20:52:32,450 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.79.1:20881#true
+
+2021-06-17 20:52:32,489 INFO Client connection 192.168.182.1:8020#true connect
+
+2021-06-17 20:52:32,489 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:8020#true
+
+2021-06-17 20:52:33,068 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:52:33,452 INFO Client connection 192.168.79.1:65184#true connect
+
+2021-06-17 20:52:34,192 INFO Client connection 192.168.79.1:65185#true connect
+
+2021-06-17 20:53:13,913 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 20:53:14,043 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.79.1:20881#true
+
+2021-06-17 20:53:23,977 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:8010#true
+
+2021-06-17 20:53:23,987 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=1}, 192.168.182.1:8020#true
+
+2021-06-17 20:53:47,948 INFO Client connection 192.168.79.1:61264#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:47,948 INFO Client connection 192.168.79.1:61263#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:49,741 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"10964","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-order","sticky":"false","category":"consumers","group":"sca-business-book","timestamp":"1623934348498"},"lastHeartBeatTime":1623934399697,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:53:49,741 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:53:51,066 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20881,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"queryById","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"10964","interface":"com.softwarevax.sca.business.order.service.OrderService","customInstanceId":"192.168.79.1#20881#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::","generic":"false","serialization":"kryo","path":"com.softwarevax.sca.business.order.service.OrderService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623934350165"},"lastHeartBeatTime":1623934401040,"metadataId":"192.168.79.1:20881:DEFAULT"}
+
+2021-06-17 20:53:51,066 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, 192.168.79.1:20881#true
+
+2021-06-17 20:53:52,959 INFO Client connection 192.168.79.1:65182#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:52,959 INFO Client connection 192.168.79.1:61252#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:52,959 INFO Client connection 192.168.79.1:20881#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:52,959 INFO Client connection 192.168.79.1:65181#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:52,959 INFO Client connection 192.168.79.1:65183#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:52,959 INFO Client connection 192.168.79.1:65175#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:53,986 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"576","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-book","timestamp":"1623934314525"},"lastHeartBeatTime":1623934400370,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 20:53:53,986 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 20:53:54,748 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"init":"false","side":"consumer","methods":"queryById","release":"2.7.6","dubbo":"2.0.2","pid":"10964","check":"false","interface":"com.softwarevax.sca.common.api.book.BookService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::","qos.enable":"false","path":"com.softwarevax.sca.common.api.book.BookService","protocol":"consumer","application":"sca-business-order","sticky":"false","category":"consumers","timestamp":"1623934348153"},"lastHeartBeatTime":1623934400117,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:53:54,748 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:53:54,748 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"576","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-book","sticky":"false","category":"consumers","group":"sca-business-order","timestamp":"1623934352932"},"lastHeartBeatTime":1623934403163,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:53:54,748 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:53:57,960 INFO Client connection 192.168.79.1:65185#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:57,960 INFO Client connection 192.168.182.1:8020#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:57,960 INFO Client connection 192.168.182.1:0#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:57,960 INFO Client connection 192.168.79.1:20880#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:57,960 INFO Client connection 192.168.79.1:65184#true disconnect, remove instances and subscribers
+
+2021-06-17 20:53:57,960 INFO Client connection 192.168.182.1:8010#true disconnect, remove instances and subscribers
+
+2021-06-17 20:54:45,644 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@sca-business-order] services are automatically cleaned
+
+2021-06-17 20:54:45,644 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@sca-business-book] services are automatically cleaned
+
+2021-06-17 20:54:45,644 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 20:54:45,644 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 20:55:08,534 INFO Client connection 192.168.79.1:60903#true connect
+
+2021-06-17 20:55:10,622 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 20:55:10,622 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 20:55:10,625 INFO Client connection 192.168.79.1:60908#true connect
+
+2021-06-17 20:55:12,164 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 20:55:12,215 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 20:55:12,215 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-17 20:55:13,174 INFO Client connection 192.168.79.1:60914#true connect
+
+2021-06-17 20:55:45,646 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 20:55:45,646 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 20:55:45,646 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 20:55:45,647 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::] services are automatically cleaned
+
+2021-06-17 20:56:14,577 INFO Client connection 192.168.79.1:61008#true connect
+
+2021-06-17 20:56:15,796 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 20:56:15,796 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:56:16,165 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:56:16,168 INFO Client connection 192.168.79.1:61076#true connect
+
+2021-06-17 20:56:16,802 INFO Client connection 192.168.79.1:62443#true connect
+
+2021-06-17 20:56:17,094 INFO Client connection 192.168.79.1:20881#true connect
+
+2021-06-17 20:56:17,094 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=0}, 192.168.79.1:20881#true
+
+2021-06-17 20:56:17,097 INFO Client connection 192.168.79.1:61078#true connect
+
+2021-06-17 20:56:18,532 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.79.1:20881#true
+
+2021-06-17 20:56:18,534 INFO Client connection 192.168.79.1:61079#true connect
+
+2021-06-17 20:56:18,574 INFO Client connection 192.168.182.1:8020#true connect
+
+2021-06-17 20:56:18,574 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:8020#true
+
+2021-06-17 20:56:19,342 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 20:56:20,490 INFO Client connection 192.168.79.1:61084#true connect
+
+2021-06-17 20:56:41,216 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=3}, 192.168.79.1:20880#true
+
+2021-06-17 20:56:41,366 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, 192.168.79.1:20881#true
+
+2021-06-17 20:56:51,265 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:8010#true
+
+2021-06-17 20:56:51,279 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=1}, 192.168.182.1:8020#true
+
+2021-06-17 20:57:13,319 INFO Client connection 192.168.79.1:60914#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:18,329 INFO Client connection 192.168.79.1:61008#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:18,329 INFO Client connection 192.168.79.1:61078#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:18,329 INFO Client connection 192.168.79.1:62443#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:18,329 INFO Client connection 192.168.79.1:61076#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:20,909 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"15308","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-order","sticky":"false","category":"consumers","group":"sca-business-book","timestamp":"1623934574682"},"lastHeartBeatTime":1623934610848,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:57:20,909 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:57:20,909 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"13244","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-book","sticky":"false","category":"consumers","group":"sca-business-order","timestamp":"1623934579226"},"lastHeartBeatTime":1623934609383,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:57:20,909 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:57:22,225 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20881,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"15308","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.79.1#20881#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order","version":"1.0.0","generic":"false","revision":"2.2.1.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","group":"sca-business-order","timestamp":"1623934577823"},"lastHeartBeatTime":1623934608596,"metadataId":"192.168.79.1:20881:DEFAULT"}
+
+2021-06-17 20:57:22,225 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=1}, 192.168.79.1:20881#true
+
+2021-06-17 20:57:23,341 INFO Client connection 192.168.182.1:8020#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:23,341 INFO Client connection 192.168.79.1:60908#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:23,341 INFO Client connection 192.168.79.1:20881#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:23,341 INFO Client connection 192.168.79.1:60903#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:23,341 INFO Client connection 192.168.182.1:8010#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:23,341 INFO Client connection 192.168.79.1:61079#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:23,341 INFO Client connection 192.168.79.1:61084#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:25,820 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20880,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"queryById","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"13244","interface":"com.softwarevax.sca.common.api.book.BookService","customInstanceId":"192.168.79.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.common.api.book.BookService::","generic":"false","serialization":"kryo","path":"com.softwarevax.sca.common.api.book.BookService","protocol":"dubbo","application":"sca-business-book","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623934508733"},"lastHeartBeatTime":1623934610817,"metadataId":"192.168.79.1:20880:DEFAULT"}
+
+2021-06-17 20:57:25,820 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 20:57:25,914 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"init":"false","side":"consumer","methods":"queryById","release":"2.7.6","dubbo":"2.0.2","pid":"15308","check":"false","interface":"com.softwarevax.sca.common.api.book.BookService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::","qos.enable":"false","path":"com.softwarevax.sca.common.api.book.BookService","protocol":"consumer","application":"sca-business-order","sticky":"false","category":"consumers","timestamp":"1623934574305"},"lastHeartBeatTime":1623934611237,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 20:57:25,914 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 20:57:28,347 INFO Client connection 192.168.182.1:0#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:28,347 INFO Client connection 192.168.79.1:20880#true disconnect, remove instances and subscribers
+
+2021-06-17 20:57:45,662 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 20:57:45,662 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::] services are automatically cleaned
+
+2021-06-17 20:58:12,460 INFO Client connection 192.168.79.1:62950#true connect
+
+2021-06-17 20:58:14,545 INFO Client connection 192.168.79.1:20880#true connect
+
+2021-06-17 20:58:14,545 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=2}, 192.168.79.1:20880#true
+
+2021-06-17 20:58:14,549 INFO Client connection 192.168.79.1:57361#true connect
+
+2021-06-17 20:58:16,113 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.79.1:20880#true
+
+2021-06-17 20:58:16,115 INFO Client connection 192.168.79.1:57366#true connect
+
+2021-06-17 20:58:16,178 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-17 20:58:16,178 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=2}, 192.168.182.1:8010#true
+
+2021-06-17 20:58:37,651 INFO Client connection 192.168.79.1:50944#true connect
+
+2021-06-17 20:58:37,741 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 20:58:37,741 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=2}, 192.168.182.1:0#true
+
+2021-06-17 20:58:37,846 INFO Client connection 192.168.79.1:50949#true connect
+
+2021-06-17 20:58:38,966 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=3}, 192.168.182.1:0#true
+
+2021-06-17 20:58:45,663 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 20:58:45,663 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book] services are automatically cleaned
+
+2021-06-17 20:58:45,663 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@sca-business-order] services are automatically cleaned
+
+2021-06-17 20:58:45,663 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order] services are automatically cleaned
+
+2021-06-17 20:59:13,511 INFO Client connection 192.168.79.1:50949#true disconnect, remove instances and subscribers
+
+2021-06-17 20:59:13,511 INFO Client connection 192.168.182.1:0#true disconnect, remove instances and subscribers
+
+2021-06-17 20:59:13,511 INFO Client connection 192.168.79.1:50944#true disconnect, remove instances and subscribers
+
+2021-06-17 20:59:40,709 INFO Client connection 192.168.79.1:55681#true connect
+
+2021-06-17 20:59:40,777 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 20:59:40,778 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=4}, 192.168.182.1:0#true
+
+2021-06-17 20:59:40,917 INFO Client connection 192.168.79.1:55687#true connect
+
+2021-06-17 20:59:42,080 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=5}, 192.168.182.1:0#true
+
+2021-06-17 21:00:13,623 INFO Client connection 192.168.79.1:55681#true disconnect, remove instances and subscribers
+
+2021-06-17 21:00:13,623 INFO Client connection 192.168.79.1:55687#true disconnect, remove instances and subscribers
+
+2021-06-17 21:00:13,623 INFO Client connection 192.168.182.1:0#true disconnect, remove instances and subscribers
+
+2021-06-17 21:00:28,731 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=3}, 192.168.79.1:20880#true
+
+2021-06-17 21:00:28,754 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=3}, 192.168.182.1:8010#true
+
+2021-06-17 21:00:45,676 WARN namespace : 31b8dfd1-b514-4518-b435-fe64fe34f322, [DEFAULT_GROUP@@consumers:com.softwarevax.sca.common.api.book.BookService::] services are automatically cleaned
+
+2021-06-17 21:00:51,747 INFO Client connection 192.168.79.1:64126#true connect
+
+2021-06-17 21:00:53,677 INFO Client connection 192.168.79.1:62950#true disconnect, remove instances and subscribers
+
+2021-06-17 21:00:54,127 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=4}, 192.168.79.1:20880#true
+
+2021-06-17 21:00:54,132 INFO Client connection 192.168.79.1:50585#true connect
+
+2021-06-17 21:00:55,884 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.79.1:20880#true
+
+2021-06-17 21:00:55,941 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=4}, 192.168.182.1:8010#true
+
+2021-06-17 21:00:56,886 INFO Client connection 192.168.79.1:50591#true connect
+
+2021-06-17 21:00:58,682 INFO Client connection 192.168.79.1:57361#true disconnect, remove instances and subscribers
+
+2021-06-17 21:00:58,682 INFO Client connection 192.168.79.1:57366#true disconnect, remove instances and subscribers
+
+2021-06-17 21:01:10,675 INFO Client connection 192.168.79.1:50613#true connect
+
+2021-06-17 21:01:10,747 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 21:01:10,747 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 21:01:10,867 INFO Client connection 192.168.79.1:50615#true connect
+
+2021-06-17 21:01:12,021 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 21:01:43,424 INFO Client connection 192.168.79.1:62862#true connect
+
+2021-06-17 21:01:43,772 INFO Client connection 192.168.79.1:50615#true disconnect, remove instances and subscribers
+
+2021-06-17 21:01:43,772 INFO Client connection 192.168.182.1:0#true disconnect, remove instances and subscribers
+
+2021-06-17 21:01:43,772 INFO Client connection 192.168.79.1:50613#true disconnect, remove instances and subscribers
+
+2021-06-17 21:01:44,608 INFO Client connection 192.168.182.1:0#true connect
+
+2021-06-17 21:01:44,608 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 21:01:44,955 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=2}, 192.168.182.1:0#true
+
+2021-06-17 21:01:44,959 INFO Client connection 192.168.79.1:62874#true connect
+
+2021-06-17 21:01:45,624 INFO Client connection 192.168.79.1:62873#true connect
+
+2021-06-17 21:01:45,942 INFO Client connection 192.168.79.1:20881#true connect
+
+2021-06-17 21:01:45,943 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=0}, 192.168.79.1:20881#true
+
+2021-06-17 21:01:45,946 INFO Client connection 192.168.79.1:56117#true connect
+
+2021-06-17 21:01:47,711 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.79.1:20881#true
+
+2021-06-17 21:01:47,770 INFO Client connection 192.168.182.1:8020#true connect
+
+2021-06-17 21:01:47,770 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:8020#true
+
+2021-06-17 21:01:48,731 INFO Client connection 192.168.79.1:52347#true connect
+
+2021-06-17 21:01:52,053 INFO Client change for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-order', ephemeral=true, revision=0}, 192.168.182.1:0#true
+
+2021-06-17 21:01:53,194 INFO Client connection 192.168.79.1:52356#true connect
+
+2021-06-17 21:02:10,292 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=5}, 192.168.79.1:20880#true
+
+2021-06-17 21:02:10,423 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.softwarevax.sca.common.api.book.BookService::', ephemeral=true, revision=3}, 192.168.182.1:0#true
+
+2021-06-17 21:02:32,178 INFO Client remove for service Service{namespace='9ef25658-deb8-44aa-8e8c-0ad3f4a180a6', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=1}, 192.168.79.1:8091#true
+
+2021-06-17 21:02:36,226 INFO Client remove for service Service{namespace='9ef25658-deb8-44aa-8e8c-0ad3f4a180a6', group='SEATA_GROUP', name='seata-server', ephemeral=true, revision=2}, 192.168.79.1:8091#true
+
+2021-06-17 21:02:38,866 INFO Client connection 192.168.79.1:62874#true disconnect, remove instances and subscribers
+
+2021-06-17 21:02:38,866 INFO Client connection 192.168.79.1:50585#true disconnect, remove instances and subscribers
+
+2021-06-17 21:02:38,866 INFO Client connection 192.168.79.1:56117#true disconnect, remove instances and subscribers
+
+2021-06-17 21:02:38,866 INFO Client connection 192.168.79.1:52347#true disconnect, remove instances and subscribers
+
+2021-06-17 21:02:38,866 INFO Client connection 192.168.79.1:62873#true disconnect, remove instances and subscribers
+
+2021-06-17 21:02:38,866 INFO Client connection 192.168.79.1:50591#true disconnect, remove instances and subscribers
+
+2021-06-17 21:02:39,692 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, ip: {"ip":"192.168.182.1","port":0,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"consumer","release":"2.7.6","dubbo":"2.0.2","pid":"14132","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","customInstanceId":"192.168.182.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"sca-business-order","sticky":"false","category":"consumers","group":"sca-business-book","timestamp":"1623934903505"},"lastHeartBeatTime":1623934929665,"metadataId":"192.168.182.1:0:DEFAULT"}
+
+2021-06-17 21:02:39,692 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:0#true
+
+2021-06-17 21:02:41,009 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, ip: {"ip":"192.168.79.1","port":20881,"healthy":false,"cluster":"DEFAULT","extendDatum":{"side":"provider","methods":"queryById","release":"2.7.6","deprecated":"false","dubbo":"2.0.2","pid":"14132","interface":"com.softwarevax.sca.business.order.service.OrderService","customInstanceId":"192.168.79.1#20881#DEFAULT#DEFAULT_GROUP@@providers:com.softwarevax.sca.business.order.service.OrderService::","generic":"false","serialization":"kryo","path":"com.softwarevax.sca.business.order.service.OrderService","protocol":"dubbo","application":"sca-business-order","dynamic":"true","category":"providers","anyhost":"true","timestamp":"1623934905116"},"lastHeartBeatTime":1623934930991,"metadataId":"192.168.79.1:20881:DEFAULT"}
+
+2021-06-17 21:02:41,009 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='providers:com.softwarevax.sca.business.order.service.OrderService::', ephemeral=true, revision=1}, 192.168.79.1:20881#true
+
+2021-06-17 21:02:41,650 INFO [AUTO-DELETE-IP] service: Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=5}, ip: {"ip":"192.168.182.1","port":8010,"healthy":false,"cluster":"DEFAULT","extendDatum":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.79.1:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=sca-business-book&bind.ip=192.168.79.1&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=sca-business-book&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=4296&qos.enable=false&release=2.7.6&revision=2.2.1.RELEASE&serialization=kryo&side=provider&timestamp=1623934855069&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20880","preserved.register.source":"SPRING_CLOUD","customInstanceId":"192.168.182.1#8010#DEFAULT#DEFAULT_GROUP@@sca-business-book"},"lastHeartBeatTime":1623934931083,"metadataId":"192.168.182.1:8010:DEFAULT"}
+
+2021-06-17 21:02:41,650 INFO Client remove for service Service{namespace='31b8dfd1-b514-4518-b435-fe64fe34f322', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=5}, 192.168.182.1:8010#true
+
+2021-06-17 21:02:42,710 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2021-06-17 21:02:42,776 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2021-06-17 21:02:43,048 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-06-17 21:02:43,048 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

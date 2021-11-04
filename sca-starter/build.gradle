@@ -1,0 +1,7 @@
+apply from: "../config.gradle"
+
+dependencies {
+    compile rootProject.ext.dependencies["fastjson"]
+    compile 'org.projectlombok:lombok'
+    annotationProcessor('org.projectlombok:lombok')
+}

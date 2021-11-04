@@ -1,0 +1,2 @@
+com/softwarevax/sca/common/domain/Response.java
+ com.softwarevax.sca.common.domain.Response

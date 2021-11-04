@@ -1,0 +1,70 @@
+2021-06-15 20:23:05,507 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2021-06-15 20:23:05,507 WARN Using naming.distro config to replace core.distro config
+
+2021-06-15 20:23:05,729 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-06-15 20:23:05,730 INFO listen for service meta change
+
+2021-06-15 20:23:05,738 INFO upgrade.state file is not exist
+
+2021-06-15 20:28:20,576 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2021-06-15 20:28:20,599 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2021-06-15 20:28:21,454 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-06-15 20:28:21,454 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-06-15 20:28:50,752 WARN naming.distro config will be removed, please use core.protocol.distro replace.
+
+2021-06-15 20:28:50,752 WARN Using naming.distro config to replace core.distro config
+
+2021-06-15 20:28:50,912 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-06-15 20:28:50,913 INFO listen for service meta change
+
+2021-06-15 20:55:58,106 INFO Client connection 192.168.182.1:8000#true connect
+
+2021-06-15 20:55:58,106 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.182.1:8000#true
+
+2021-06-15 20:56:54,207 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.182.1:8000#true
+
+2021-06-15 20:57:26,245 INFO Client connection 192.168.182.1:8000#true disconnect, remove instances and subscribers
+
+2021-06-15 20:58:24,973 WARN namespace : public, [DEFAULT_GROUP@@sca-business-portal] services are automatically cleaned
+
+2021-06-15 21:00:03,508 INFO Client connection 192.168.182.1:8010#true connect
+
+2021-06-15 21:00:03,508 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=0}, 192.168.182.1:8010#true
+
+2021-06-15 21:00:08,183 INFO Client connection 192.168.182.1:8000#true connect
+
+2021-06-15 21:00:08,183 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=0}, 192.168.182.1:8000#true
+
+2021-06-15 21:05:31,925 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-book', ephemeral=true, revision=1}, 192.168.182.1:8010#true
+
+2021-06-15 21:05:32,047 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='sca-business-portal', ephemeral=true, revision=1}, 192.168.182.1:8000#true
+

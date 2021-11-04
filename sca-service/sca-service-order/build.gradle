@@ -1,0 +1,21 @@
+apply from: "../../config.gradle"
+
+dependencies {
+    compile rootProject.ext.dependencies["nacos-discovery"]
+    compile rootProject.ext.dependencies["nacos-config"]
+    compile rootProject.ext.dependencies["dubbo"]
+    compile rootProject.ext.dependencies["kryo"]
+    compile rootProject.ext.dependencies["mybatis-plus"]
+    compile rootProject.ext.dependencies["mysql"]
+    compile rootProject.ext.dependencies["jdbc"]
+    compile rootProject.ext.dependencies["actuator"]
+    compile (rootProject.ext.dependencies["alibaba-seata"]) {
+        exclude group: 'io.seata'
+    }
+    compile rootProject.ext.dependencies["io-seata"]
+    compile project(":sca-common:sca-common-api:sca-common-api-book")
+    compile project(":sca-common:sca-common-api:sca-common-api-order")
+    compile project(":sca-common:sca-common-core")
+    compile 'org.projectlombok:lombok'
+    annotationProcessor('org.projectlombok:lombok')
+}

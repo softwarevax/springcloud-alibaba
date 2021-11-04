@@ -1,0 +1,70 @@
+2021-06-16 18:55:17,870 INFO [dump-all-ok] test+DEFAULT_GROUP, 1623760351000, length=10, md5=49b0cefa0930c9bbefa9d5e890f405b1
+
+2021-06-16 18:59:18,667 INFO [dump-task] add task. groupKey=test+DEFAULT_GROUP, taskKey=test+DEFAULT_GROUP++false+null
+
+2021-06-16 19:14:49,557 INFO [dump-task] add task. groupKey=test+DEFAULT_GROUP, taskKey=test+DEFAULT_GROUP++false+null
+
+2021-06-16 19:14:49,628 WARN [dump-ignore] ignore to save cache file. groupKey=test+DEFAULT_GROUP, md5=ccf36e9d7ac0842a09148bc90dbf82ab, lastModifiedOld=1623841157758, lastModifiedNew=1623842089537
+
+2021-06-16 19:16:15,473 INFO [dump-task] add task. groupKey=test+DEFAULT_GROUP, taskKey=test+DEFAULT_GROUP++false+null
+
+2021-06-16 19:16:29,762 INFO [dump-task] add task. groupKey=sca-business-book+DEFAULT_GROUP, taskKey=sca-business-book+DEFAULT_GROUP++false+null
+
+2021-06-16 19:17:24,735 INFO [dump-task] add task. groupKey=sca-business-book+DEFAULT_GROUP, taskKey=sca-business-book+DEFAULT_GROUP++false+null
+
+2021-06-16 20:13:48,932 INFO [dump-task] add task. groupKey=sca-business-book+DEFAULT_GROUP, taskKey=sca-business-book+DEFAULT_GROUP++false+null
+
+2021-06-16 20:14:11,136 INFO [dump-task] add task. groupKey=sca-business-book+DEFAULT_GROUP, taskKey=sca-business-book+DEFAULT_GROUP++false+null
+
+2021-06-16 20:24:42,871 INFO [dump-task] add task. groupKey=sca-business-book+DEFAULT_GROUP, taskKey=sca-business-book+DEFAULT_GROUP++false+null
+
+2021-06-16 20:26:24,190 INFO [dump-task] add task. groupKey=sca-business-book+DEFAULT_GROUP, taskKey=sca-business-book+DEFAULT_GROUP++false+null
+
+2021-06-16 20:27:04,319 INFO [dump-task] add task. groupKey=sca-business-book+DEFAULT_GROUP, taskKey=sca-business-book+DEFAULT_GROUP++false+null
+
+2021-06-16 20:28:46,814 INFO [dump-task] add task. groupKey=sca-business-book+DEFAULT_GROUP, taskKey=sca-business-book+DEFAULT_GROUP++false+null
+
+2021-06-16 21:14:17,564 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-16 21:14:19,027 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:18:38,697 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-16 21:18:40,443 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:25:08,988 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-16 21:25:10,492 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:25:26,414 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-16 21:25:27,922 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:27:51,249 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-16 21:27:53,041 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:28:19,446 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-16 21:28:21,110 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:30:37,041 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-16 21:30:39,296 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:31:03,044 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-16 21:31:04,963 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:32:54,013 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-16 21:32:55,501 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:34:15,485 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService, taskKey=sca-business-book+mapping-com.softwarevax.sca.common.api.book.BookService++false+null
+
+2021-06-16 21:34:17,476 INFO [dump-task] add task. groupKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-book+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+
+2021-06-16 21:34:33,963 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService, taskKey=sca-business-order+mapping-com.softwarevax.sca.business.order.service.OrderService++false+null
+
+2021-06-16 21:34:35,598 INFO [dump-task] add task. groupKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, taskKey=sca-business-order+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService++false+null
+

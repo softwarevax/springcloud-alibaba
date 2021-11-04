@@ -1,0 +1,1 @@
+sh nacos-config.sh -h 127.0.0.1 -p 8848 -g DEFAULT_GROUP -t e51b0432-97f2-4e3e-9013-bb42b2aeda15 -u nacos -w nacos

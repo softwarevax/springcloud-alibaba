@@ -1,0 +1,64 @@
+2021-06-18 14:32:40,375 INFO notifyConnectTimeout:200
+
+2021-06-18 14:32:40,380 INFO notifySocketTimeout:8000
+
+2021-06-18 14:32:40,380 INFO isHealthCheck:true
+
+2021-06-18 14:32:40,380 INFO maxHealthCheckFailCount:12
+
+2021-06-18 14:32:40,380 INFO maxContent:10485760
+
+2021-06-18 14:32:40,380 INFO spring.datasource.platform:mysql
+
+2021-06-18 14:32:56,471 WARN DumpService start
+
+2021-06-18 14:32:56,473 INFO start clear all config-info.
+
+2021-06-18 14:32:56,485 INFO clear all config-info success.
+
+2021-06-18 14:32:56,494 INFO clear all config-info-tenant success.
+
+2021-06-18 14:32:56,567 INFO [all-dump] 95 / 95
+
+2021-06-18 14:32:56,567 INFO start clear all config-info-beta.
+
+2021-06-18 14:32:56,567 WARN clear all config-info-beta failed.
+
+2021-06-18 14:32:56,568 WARN clear all config-info-beta-tenant failed.
+
+2021-06-18 14:32:56,569 INFO start clear all config-info-tag.
+
+2021-06-18 14:32:56,569 WARN clear all config-info-tag failed.
+
+2021-06-18 14:32:56,569 WARN clear all config-info-tag-tenant failed.
+
+2021-06-18 18:22:14,406 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 18:22:21,186 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 18:25:40,200 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 18:26:55,840 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 18:28:05,607 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 18:28:10,315 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 18:29:37,864 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 18:30:14,344 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 18:32:37,807 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 19:14:49,208 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 19:14:51,777 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 19:14:58,261 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 19:17:24,523 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 19:17:27,627 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+
+2021-06-18 19:18:32,671 WARN Get client info from 192.168.182.1:8848 with exception: connect timed out
+

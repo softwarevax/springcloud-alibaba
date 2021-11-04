@@ -1,0 +1,17 @@
+apply from: "../config.gradle"
+
+dependencies {
+    compile 'org.projectlombok:lombok'
+    compile rootProject.ext.dependencies["gateway"]
+    compile rootProject.ext.dependencies["nacos-discovery"]
+    compile rootProject.ext.dependencies["nacos-config"]
+    compile rootProject.ext.dependencies['swagger2']
+    compile rootProject.ext.dependencies['swagger-ui']
+    compile rootProject.ext.dependencies["actuator"]
+    annotationProcessor('org.projectlombok:lombok')
+}
+
+configurations {
+    // 排除依赖
+    all*.exclude module: "spring-boot-starter-web";
+}

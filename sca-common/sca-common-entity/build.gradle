@@ -1,0 +1,11 @@
+apply from: "../../config.gradle"
+
+description "数据库对象，字段和数据库保持一致, 一般只在dao层使用"
+
+dependencies {
+    compile 'org.projectlombok:lombok'
+    compileOnly rootProject.ext.dependencies["javax-persistence"]
+    compile rootProject.ext.dependencies["mybatis-plus"]
+    compile project(":sca-common:sca-common-domain")
+    annotationProcessor('org.projectlombok:lombok')
+}

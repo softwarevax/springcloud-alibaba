@@ -1,0 +1,19 @@
+com/softwarevax/sca/gateway/config/swagger/GatewaySwaggerResourceProvider.java
+ com.softwarevax.sca.gateway.config.swagger.GatewaySwaggerResourceProvider
+com/softwarevax/sca/gateway/config/route/GatewayConfig.java
+ com.softwarevax.sca.gateway.config.route.GatewayConfig
+com/softwarevax/sca/gateway/config/route/GatewayUtils.java
+ com.softwarevax.sca.gateway.config.route.GatewayUtils
+com/softwarevax/sca/gateway/GatewayApplication.java
+ com.softwarevax.sca.gateway.GatewayApplication
+com/softwarevax/sca/gateway/config/swagger/ServiceInfo.java
+ com.softwarevax.sca.gateway.config.swagger.ServiceInfo
+com/softwarevax/sca/gateway/config/swagger/ServiceConfig.java
+ com.softwarevax.sca.gateway.config.swagger.ServiceConfig
+com/softwarevax/sca/gateway/config/route/DynamicRouteServiceImpl.java
+ com.softwarevax.sca.gateway.config.route.DynamicRouteServiceImpl
+ com.softwarevax.sca.gateway.config.route.DynamicRouteServiceImpl$1
+com/softwarevax/sca/gateway/config/route/DynamicRouteAware.java
+ com.softwarevax.sca.gateway.config.route.DynamicRouteAware
+com/softwarevax/sca/gateway/config/swagger/SwaggerResourceController.java
+ com.softwarevax.sca.gateway.config.swagger.SwaggerResourceController

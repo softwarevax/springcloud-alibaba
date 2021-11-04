@@ -1,0 +1,4 @@
+com/softwarevax/sca/common/entity/Order.java
+ com.softwarevax.sca.common.entity.Order
+com/softwarevax/sca/common/entity/Book.java
+ com.softwarevax.sca.common.entity.Book

@@ -1,0 +1,10 @@
+2021-06-15 20:31:28,393 INFO [dump-task] add task. groupKey=test+DEFAULT_GROUP, taskKey=test+DEFAULT_GROUP++false+null
+
+2021-06-15 20:32:09,062 INFO [dump-task] add task. groupKey=test+DEFAULT_GROUP, taskKey=test+DEFAULT_GROUP++false+null
+
+2021-06-15 20:32:09,073 WARN [dump-ignore] ignore to save cache file. groupKey=test+DEFAULT_GROUP, md5=49b0cefa0930c9bbefa9d5e890f405b1, lastModifiedOld=1623760287608, lastModifiedNew=1623760328847
+
+2021-06-15 20:32:30,916 INFO [dump-task] add task. groupKey=test+DEFAULT_GROUP, taskKey=test+DEFAULT_GROUP++false+null
+
+2021-06-15 20:32:30,927 WARN [dump-ignore] ignore to save cache file. groupKey=test+DEFAULT_GROUP, md5=49b0cefa0930c9bbefa9d5e890f405b1, lastModifiedOld=1623760287608, lastModifiedNew=1623760350897
+

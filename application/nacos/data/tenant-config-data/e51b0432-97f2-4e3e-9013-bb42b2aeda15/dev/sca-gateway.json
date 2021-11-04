@@ -1,0 +1,22 @@
+[
+    {
+        "id": "sca-service-book",
+        "predicates": [
+            "Path=/sca-service-book/**"
+        ],
+        "filters": [
+            "StripPrefix=1"
+        ],
+        "uri": "lb://sca-service-book"
+    },
+    {
+        "id": "sca-service-order",
+        "predicates": [
+            "Path=/sca-service-order/**"
+        ],
+        "filters": [
+            "StripPrefix=1"
+        ],
+        "uri": "lb://sca-service-order"
+    }
+]
