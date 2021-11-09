@@ -9,7 +9,7 @@
 
 说明：
 
-1、nacos-server.jar文件太大，无法上传，可通过下载<a href="https://github.com/alibaba/nacos">源码</a>打包，或从https://download.csdn.net/download/qq_25863973/37059580下载
+1、nacos-server.jar文件太大，无法上传，可通过下载<a href="https://github.com/alibaba/nacos">源码</a>打包，或从https://download.csdn.net/download/qq_25863973/37059580 下载
 
 2、application/db目录含数据库脚本
 
